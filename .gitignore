@@ -1,0 +1,65 @@
+#----------------- R & RStudio noise
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+# Mac Finder....
+.DS_Store
+**/.DS_Store
+
+# knitr and R markdown default cache directories
+/*_cache/
+/cache/
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+*.log
+
+#----------------- VSCODE
+.vscode/
+.claude/
+
+# ----------------- QUARTO WEBSITE
+_site/
+_freeze/
+.quarto/
+_quarto/
+/.quarto/
+*_files/
+
+# ----------------- DATA FILES
+
+# ----- INPUT data
+# Ignore everything under data_in bc may be very BIG ...
+data/data_in/**/*
+# ...BUT Keep Markdown and PDF files anywhere inside data_in
+!data/data_in/**/*.md
+!data/data_in/**/*.pdf
+# OKKIO:
+# ------ `/**/*.md` matches Markdown files at ANY depth under data/data_in/
+# ------ `/*.md` matches Markdown files at 1st level under data/data_in/
+
+# ----- OUTPUT data
+# Ignore everything under data/data_out/ bc may be very BIG ...
+data/data_out/**/*
+# ...BUT Keep Markdown and PDF files anywhere inside data_in
+!data/data_out/**/*.md
+!data/data_out/**/*.pdf
+
+
+# ----- OUTPUT objects for DASHBOARD (keep)
+!data/maps/**/*
+!data/plots/**/*
+
+
+# ----------------- Personal
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+# xche lo sto dando anche a Sinloc!!!
+_notes/**/*.*
+
+# ----------------- Unnecessary
+zzz/**/*.*
+*/zzz/**/*.*
+CLAUDE.md
+**/*.quarto_ipynb

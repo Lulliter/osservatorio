@@ -1,0 +1,56 @@
+---
+title: "Domande e/o approfondimenti"
+subtitle: "Temi emergenti da analisi di contesto"
+author: Fondazione Cariparma - Osservatorio dei dati sociali
+date: last-modified
+date-format: "DD-MMMM-YYYY"
+
+execute:
+  eval: true
+  echo: false
+  warning: false
+  error: false
+  output: false
+
+bibliography: CRP_bil_miss.bib
+suppress-bibliography: false
+---
+
+# Domande
+
+## Demografia
+
+## Economia
+
+## Servizi di assistenza socio-sanitaria (*anziani)  
+
+> La riorganizzazione e l’**integrazione tra assistenza ospedaliera e territoriale, sociale e sanitaria**, costituisce oggi uno degli obiettivi prioritari di politica sanitaria verso cui i sistemi sanitari più avanzati devono orientarsi per dare risposte concrete ai nuovi bisogni di salute, che non si limitano più solo a una domanda di salute, bensì contemplano un processo integrato di accompagnamento della vita in tutte le sue fasi e stati. [@Rapportosussidiarieta7682425light]
+
+- La programmazione/erogazione territoriale segue l'accelerazione di invecchiamento (= un carico di malattia caratterizzato dalla prevalenza delle patologie croniche e degenerative, tipiche delle popolazioni anziane)?
+
+- Le `"Case della Salute"` (peculiarità della regione ER, già nel 2020 erano 124) o `"Case della Comunità"` (al 2026 programmate 185 in ER) possono essere un inizio di risposta alla necessità di integrare i servizi e la presa in carico? 
+   - passaggio da `"Case della Salute"` a `"Case della Comunità"` (come previsto dal PNRR) che, come prospettata nel modello sanitario regionale, diventa il punto di sintesi erogativo del complesso delle prestazioni e delle attività offerte da tutte le strutture che operano a favore della salute della collettività di riferimento nell’ambito territoriale di competenza, sia erogati direttamente dal servizio sanitario regionale, sia da altri soggetti pubblici territoriali (enti locali, privati accreditati, farmacie dei servizi, reti sociali e di volontariato). 
+
+  - Nella `Deliberazione di Giunta regionale 17 luglio 2023, n. 12061`, che declina il `d.m. 77/2022` I principi fondanti di tale riforma sono: il **principio di prossimità**; il **principio di integrazione socio-sanitaria**, attraverso specifici accordi con i Comuni e l’Unione di Comuni; il **principio di continuità assistenziale**, con percorsi strutturati che collegano l’assistenza ospedaliera, quella territoriale e quella domiciliare  
+
+
+## Servizi per la Disabilità
+
+## Condizione Abitativa
+
+## Aggiornamento musei, monumenti, biblioteche
+
+## Ambiente
+
+## Istruzione
+
+## Infanzia
+
+## Ricerca
+
+## Terzo settore
+
+
+## Fonti citate 
+
+

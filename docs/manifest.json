@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.5.1",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "bilancio_2025.html",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "bilancio_2025.html": {
+      "checksum": "c82cc54bc02a4fb1dcb840e77554234a"
+    }
+  },
+  "users": null
+}
