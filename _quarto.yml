@@ -3,13 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "Input per Bilancio di Missione"
+  title: "Osservatorio dei dati sociali"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: bilancio_2025.qmd
-        text: Bilancio di Missione 2025
       - href: questions.qmd
         text: Domande e approfondimenti
 
