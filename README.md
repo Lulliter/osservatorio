@@ -1,17 +1,19 @@
-# Input per Bilancio di Missione 2025
+# Osservatorio Dati Sociali
 
-Sito Quarto per la condivisione interna di dati e analisi per il Bilancio di Missione 2025.
+Sito Quarto per la raccolta e condivisione di dati e analisi sociali.
 
 ## Struttura
 
 ```
-bilancio_missione/
+osservatorio/
 ├── _quarto.yml           # Configurazione sito Quarto
 ├── index.qmd             # Home page
-├── bilancio_2025.qmd     # Report principale
+├── questions.qmd         # Domande e approfondimenti
+├── blog.qmd              # Listing page del blog
+├── posts/                # Post del blog
 ├── docs/                 # Output renderizzato (per GitHub Pages)
-├── data_in/              # Dati di input (ISTAT, BES, ecc.)
-├── data_out/             # Dati di output (grafici, tabelle)
+├── data_in/              # Dati di input (ignorati da git)
+├── data_out/             # Dati di output (ignorati da git)
 └── R/                    # Funzioni R
 ```
 
@@ -22,28 +24,19 @@ bilancio_missione/
 quarto render
 ```
 
-2. Copia su OneDrive e renderizza:
-```bash
-./_render_copy2onedrive.sh
-```
-
-3. Commit e push:
+2. Commit e push:
 ```bash
 git add -A
-git commit -m "Aggiorna report"
+git commit -m "Aggiorna sito"
 git push
 ```
 
-## Output
-
-- **GitHub Pages**: servito da `docs/` su [https://lulliter.github.io/bilancio_missione/](https://lulliter.github.io/bilancio_missione/)
-- **OneDrive**: `2025_bil-missione.docx` + cartelle `data_in/` e `data_out/`
-
 ## GitHub Pages
+
+Servito da `docs/` su <https://lulliter.github.io/osservatorio/>
 
 Configurazione: Settings → Pages → Deploy from branch `master` `/docs`
 
 ## Dati
 
-Tutte le fonti dati utilizzate sono pubbliche e open access (ISTAT, BES, Eurostat, ecc.). Le citazioni sono incluse nel documento e nella bibliografia (`CRP_bil_miss.bib`).
-
+Tutte le fonti dati utilizzate sono pubbliche e open access (ISTAT, BES, Eurostat, ecc.). I file in `data_in/` e `data_out/` sono ignorati da git (tranne `.md` e `.pdf`).

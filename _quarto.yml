@@ -3,15 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Input per Bilancio di Missione"
+  site-url: https://lulliter.github.io/osservatorio/
+  title: "Osservatorio Dati Sociali"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: bilancio_2025.qmd
-        text: Bilancio di Missione 2025
       - href: questions.qmd
         text: Domande e approfondimenti
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:

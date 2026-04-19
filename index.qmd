@@ -1,8 +1,6 @@
 ---
-title: "Bilancio di Missione"
-subtitle: "Fondazione Cariparma - Osservatorio dei dati sociali"
+title: "Fondazione Cariparma - Osservatorio dei dati sociali"
+subtitle: "Blog e spunti di ricerca"
 ---
 
-Sito interno per condivisione di dati e analisi in vista del Bilancio di Missione 2025
-
-- [Input per Bilancio 2025](bilancio_2025.qmd)
+Sito interno per condivisione di dati e analisi in vista  

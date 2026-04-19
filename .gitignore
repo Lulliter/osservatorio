@@ -31,25 +31,19 @@ _quarto/
 
 # ----- INPUT data
 # Ignore everything under data_in bc may be very BIG ...
-data/data_in/**/*
-# ...BUT Keep Markdown and PDF files anywhere inside data_in
-!data/data_in/**/*.md
-!data/data_in/**/*.pdf
-# OKKIO:
-# ------ `/**/*.md` matches Markdown files at ANY depth under data/data_in/
-# ------ `/*.md` matches Markdown files at 1st level under data/data_in/
+data_in/**/*
+# ...BUT Keep .gitkeep, Markdown, and PDF files
+!data_in/.gitkeep
+!data_in/**/*.md
+!data_in/**/*.pdf
 
 # ----- OUTPUT data
-# Ignore everything under data/data_out/ bc may be very BIG ...
-data/data_out/**/*
-# ...BUT Keep Markdown and PDF files anywhere inside data_in
-!data/data_out/**/*.md
-!data/data_out/**/*.pdf
-
-
-# ----- OUTPUT objects for DASHBOARD (keep)
-!data/maps/**/*
-!data/plots/**/*
+# Ignore everything under data_out bc may be very BIG ...
+data_out/**/*
+# ...BUT Keep .gitkeep, Markdown, and PDF files
+!data_out/.gitkeep
+!data_out/**/*.md
+!data_out/**/*.pdf
 
 
 # ----------------- Personal

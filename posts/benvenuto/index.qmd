@@ -1,0 +1,8 @@
+---
+title: "Benvenuto nel blog dell'Osservatorio"
+author: "Lula"
+date: "2026-04-19"
+categories: [news]
+---
+
+Primo post di prova. Sostituiscilo con contenuti reali!
