@@ -12,6 +12,7 @@ execute:
   error: false
   output: false
 
+bibliography: CRP_bil_miss.bib
 suppress-bibliography: false
 ---
 
@@ -19,7 +20,29 @@ suppress-bibliography: false
 
 ## Demografia
 
+### 1. _Piramide demografica ITA v. stranieri_
+
+## Demog ∩ Geospatial analysis
+
+
+
+### 1. _Residenti anziani per comune/zona altim / ecc_
+
+
 ## Economia
+
+> Fonte: Istat, soglia di povertà , basata sul costo della vita e filtrabile per regione, numero di figli ecc. (citato da Tommaso Vaghi il 14 aprile evento "Invisibili")
+
+
+
+## Demog ∩ Econ ∩ Geospatial analysis
+
+### 1. _Indice di potenziale fragilità demografica/soc/econ – per comune_
+> Fonte: [@re-rstatisticaPotenzialeFragilitaDemografica2025]
+
+### 2. _Indice di RUGOSITÀ – per comune_
+> Fonte: Forum delle disuguaglianze
+
 
 ## Servizi di assistenza socio-sanitaria (*anziani)  
 
@@ -34,6 +57,12 @@ suppress-bibliography: false
    - passaggio da `"Case della Salute"` a `"Case della Comunità"` (come previsto dal PNRR) che, come prospettata nel modello sanitario regionale, diventa il punto di sintesi erogativo del complesso delle prestazioni e delle attività offerte da tutte le strutture che operano a favore della salute della collettività di riferimento nell’ambito territoriale di competenza, sia erogati direttamente dal servizio sanitario regionale, sia da altri soggetti pubblici territoriali (enti locali, privati accreditati, farmacie dei servizi, reti sociali e di volontariato). 
 
   - Nella `Deliberazione di Giunta regionale 17 luglio 2023, n. 12061`, che declina il `d.m. 77/2022` I principi fondanti di tale riforma sono: il **principio di prossimità**; il **principio di integrazione socio-sanitaria**, attraverso specifici accordi con i Comuni e l’Unione di Comuni; il **principio di continuità assistenziale**, con percorsi strutturati che collegano l’assistenza ospedaliera, quella territoriale e quella domiciliare  
+
+
+> Fonte:  
+- [@Rapportosussidiarieta7682425light]  
+- Anna Mori -UniMI  (citato da Tommaso Vaghi il 14 aprile evento "Invisibili")
+
 
 
 ## Servizi per la Disabilità
