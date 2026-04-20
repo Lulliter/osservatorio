@@ -10,9 +10,11 @@ website:
       - href: index.qmd
         text: Home
       - href: questions.qmd
-        text: Domande e approfondimenti
-      - href: blog.qmd
-        text: Blog
+        text: ... per approfondimenti
+      - href: posts.qmd
+        text: Dato di realtà
+
+bibliography: CRP_bil_miss.bib
 
 format:
   html:

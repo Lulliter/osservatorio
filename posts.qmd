@@ -1,5 +1,6 @@
 ---
-title: "Blog"
+title: "Dato di realtà"
+subtitle: "Blog dell'Osservatorio dei dai sociali - fondazione Cariparma"
 listing:
   contents: posts
   sort: "date desc"

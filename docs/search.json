@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Dato di realtà",
     "section": "",
-    "text": "Benvenuto nel blog dell’Osservatorio\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n19 apr 2026\n\n\nLula\n\n\n\n\n\nNessun risultato"
-  },
-  {
-    "objectID": "questions.html",
-    "href": "questions.html",
-    "title": "Domande e/o approfondimenti",
-    "section": "",
-    "text": "La riorganizzazione e l’integrazione tra assistenza ospedaliera e territoriale, sociale e sanitaria, costituisce oggi uno degli obiettivi prioritari di politica sanitaria verso cui i sistemi sanitari più avanzati devono orientarsi per dare risposte concrete ai nuovi bisogni di salute, che non si limitano più solo a una domanda di salute, bensì contemplano un processo integrato di accompagnamento della vita in tutte le sue fasi e stati. (Fondazione per la Sussidiarietà 19 febb 2026)\n\n\nLa programmazione/erogazione territoriale segue l’accelerazione di invecchiamento (= un carico di malattia caratterizzato dalla prevalenza delle patologie croniche e degenerative, tipiche delle popolazioni anziane)?\nLe \"Case della Salute\" (peculiarità della regione ER, già nel 2020 erano 124) o \"Case della Comunità\" (al 2026 programmate 185 in ER) possono essere un inizio di risposta alla necessità di integrare i servizi e la presa in carico?\n\npassaggio da \"Case della Salute\" a \"Case della Comunità\" (come previsto dal PNRR) che, come prospettata nel modello sanitario regionale, diventa il punto di sintesi erogativo del complesso delle prestazioni e delle attività offerte da tutte le strutture che operano a favore della salute della collettività di riferimento nell’ambito territoriale di competenza, sia erogati direttamente dal servizio sanitario regionale, sia da altri soggetti pubblici territoriali (enti locali, privati accreditati, farmacie dei servizi, reti sociali e di volontariato).\nNella Deliberazione di Giunta regionale 17 luglio 2023, n. 12061, che declina il d.m. 77/2022 I principi fondanti di tale riforma sono: il principio di prossimità; il principio di integrazione socio-sanitaria, attraverso specifici accordi con i Comuni e l’Unione di Comuni; il principio di continuità assistenziale, con percorsi strutturati che collegano l’assistenza ospedaliera, quella territoriale e quella domiciliare"
-  },
-  {
-    "objectID": "questions.html#servizi-di-assistenza-socio-sanitaria-anziani",
-    "href": "questions.html#servizi-di-assistenza-socio-sanitaria-anziani",
-    "title": "Domande e/o approfondimenti",
-    "section": "",
-    "text": "La riorganizzazione e l’integrazione tra assistenza ospedaliera e territoriale, sociale e sanitaria, costituisce oggi uno degli obiettivi prioritari di politica sanitaria verso cui i sistemi sanitari più avanzati devono orientarsi per dare risposte concrete ai nuovi bisogni di salute, che non si limitano più solo a una domanda di salute, bensì contemplano un processo integrato di accompagnamento della vita in tutte le sue fasi e stati. (Fondazione per la Sussidiarietà 19 febb 2026)\n\n\nLa programmazione/erogazione territoriale segue l’accelerazione di invecchiamento (= un carico di malattia caratterizzato dalla prevalenza delle patologie croniche e degenerative, tipiche delle popolazioni anziane)?\nLe \"Case della Salute\" (peculiarità della regione ER, già nel 2020 erano 124) o \"Case della Comunità\" (al 2026 programmate 185 in ER) possono essere un inizio di risposta alla necessità di integrare i servizi e la presa in carico?\n\npassaggio da \"Case della Salute\" a \"Case della Comunità\" (come previsto dal PNRR) che, come prospettata nel modello sanitario regionale, diventa il punto di sintesi erogativo del complesso delle prestazioni e delle attività offerte da tutte le strutture che operano a favore della salute della collettività di riferimento nell’ambito territoriale di competenza, sia erogati direttamente dal servizio sanitario regionale, sia da altri soggetti pubblici territoriali (enti locali, privati accreditati, farmacie dei servizi, reti sociali e di volontariato).\nNella Deliberazione di Giunta regionale 17 luglio 2023, n. 12061, che declina il d.m. 77/2022 I principi fondanti di tale riforma sono: il principio di prossimità; il principio di integrazione socio-sanitaria, attraverso specifici accordi con i Comuni e l’Unione di Comuni; il principio di continuità assistenziale, con percorsi strutturati che collegano l’assistenza ospedaliera, quella territoriale e quella domiciliare"
-  },
-  {
-    "objectID": "posts/benvenuto/index.html",
-    "href": "posts/benvenuto/index.html",
-    "title": "Benvenuto nel blog dell’Osservatorio",
-    "section": "",
-    "text": "Primo post di prova. Sostituiscilo con contenuti reali!"
+    "text": "Blog # 1 - test\n\n\n\nnews\n\nterritorio\n\ndata literacy\n\n\n\n\n\n\n\n\n\n19 apr 2026\n\n\nLuisa M. Mimmi\n\n\n\n\n\nNessun risultato"
   },
   {
     "objectID": "index.html",
@@ -33,5 +12,68 @@
     "title": "Fondazione Cariparma - Osservatorio dei dati sociali",
     "section": "",
     "text": "Sito interno per condivisione di dati e analisi in vista"
+  },
+  {
+    "objectID": "posts/benvenuto/index.html",
+    "href": "posts/benvenuto/index.html",
+    "title": "Blog # 1 - test",
+    "section": "",
+    "text": "I contenuti attesi di questo spazio:\n\nDati, letture e spunti sul sociale\nPillole di data literacy da e per il mondo del non profit\nLeggere il presente attraverso i dati\nSpunti e domande dai dati sociali\nDati e domande sul mondo che ci circonda"
+  },
+  {
+    "objectID": "questions.html",
+    "href": "questions.html",
+    "title": "Spunti e domande per approfondimenti",
+    "section": "",
+    "text": "La riorganizzazione e l’integrazione tra assistenza ospedaliera e territoriale, sociale e sanitaria, costituisce oggi uno degli obiettivi prioritari di politica sanitaria verso cui i sistemi sanitari più avanzati devono orientarsi per dare risposte concrete ai nuovi bisogni di salute, che non si limitano più solo a una domanda di salute, bensì contemplano un processo integrato di accompagnamento della vita in tutte le sue fasi e stati. (Fondazione per la Sussidiarietà 19 febb 2026)\n\n\nLa programmazione/erogazione territoriale segue l’accelerazione di invecchiamento (= un carico di malattia caratterizzato dalla prevalenza delle patologie croniche e degenerative, tipiche delle popolazioni anziane)?\nLe \"Case della Salute\" (peculiarità della regione ER, già nel 2020 erano 124) o \"Case della Comunità\" (al 2026 programmate 185 in ER) possono essere un inizio di risposta alla necessità di integrare i servizi e la presa in carico?\n\npassaggio da \"Case della Salute\" a \"Case della Comunità\" (come previsto dal PNRR) che, come prospettata nel modello sanitario regionale, diventa il punto di sintesi erogativo del complesso delle prestazioni e delle attività offerte da tutte le strutture che operano a favore della salute della collettività di riferimento nell’ambito territoriale di competenza, sia erogati direttamente dal servizio sanitario regionale, sia da altri soggetti pubblici territoriali (enti locali, privati accreditati, farmacie dei servizi, reti sociali e di volontariato).\nNella Deliberazione di Giunta regionale 17 luglio 2023, n. 12061, che declina il d.m. 77/2022 I principi fondanti di tale riforma sono: il principio di prossimità; il principio di integrazione socio-sanitaria, attraverso specifici accordi con i Comuni e l’Unione di Comuni; il principio di continuità assistenziale, con percorsi strutturati che collegano l’assistenza ospedaliera, quella territoriale e quella domiciliare"
+  },
+  {
+    "objectID": "questions.html#servizi-di-assistenza-socio-sanitaria-anziani",
+    "href": "questions.html#servizi-di-assistenza-socio-sanitaria-anziani",
+    "title": "Spunti e domande per approfondimenti",
+    "section": "",
+    "text": "La riorganizzazione e l’integrazione tra assistenza ospedaliera e territoriale, sociale e sanitaria, costituisce oggi uno degli obiettivi prioritari di politica sanitaria verso cui i sistemi sanitari più avanzati devono orientarsi per dare risposte concrete ai nuovi bisogni di salute, che non si limitano più solo a una domanda di salute, bensì contemplano un processo integrato di accompagnamento della vita in tutte le sue fasi e stati. (Fondazione per la Sussidiarietà 19 febb 2026)\n\n\nLa programmazione/erogazione territoriale segue l’accelerazione di invecchiamento (= un carico di malattia caratterizzato dalla prevalenza delle patologie croniche e degenerative, tipiche delle popolazioni anziane)?\nLe \"Case della Salute\" (peculiarità della regione ER, già nel 2020 erano 124) o \"Case della Comunità\" (al 2026 programmate 185 in ER) possono essere un inizio di risposta alla necessità di integrare i servizi e la presa in carico?\n\npassaggio da \"Case della Salute\" a \"Case della Comunità\" (come previsto dal PNRR) che, come prospettata nel modello sanitario regionale, diventa il punto di sintesi erogativo del complesso delle prestazioni e delle attività offerte da tutte le strutture che operano a favore della salute della collettività di riferimento nell’ambito territoriale di competenza, sia erogati direttamente dal servizio sanitario regionale, sia da altri soggetti pubblici territoriali (enti locali, privati accreditati, farmacie dei servizi, reti sociali e di volontariato).\nNella Deliberazione di Giunta regionale 17 luglio 2023, n. 12061, che declina il d.m. 77/2022 I principi fondanti di tale riforma sono: il principio di prossimità; il principio di integrazione socio-sanitaria, attraverso specifici accordi con i Comuni e l’Unione di Comuni; il principio di continuità assistenziale, con percorsi strutturati che collegano l’assistenza ospedaliera, quella territoriale e quella domiciliare"
+  },
+  {
+    "objectID": "temi.html",
+    "href": "temi.html",
+    "title": "Temi rilevanti",
+    "section": "",
+    "text": "[ ⚠️ Work in progress … ⚠️ ]"
+  },
+  {
+    "objectID": "temi.html#i-cambiamenti-della-società-e-gli-impatti-per-il-sistema-di-welfare",
+    "href": "temi.html#i-cambiamenti-della-società-e-gli-impatti-per-il-sistema-di-welfare",
+    "title": "Temi rilevanti",
+    "section": "1) I cambiamenti della società e gli impatti per il sistema di welfare",
+    "text": "1) I cambiamenti della società e gli impatti per il sistema di welfare\n\nLinea d’Azione: Società e sfide per il welfare\n- PS: ridurre disuguaglianze\n\n\nContributo: tutti i bandi Ambiti intervento\n+ Favorire le reti a supporto dei caregiver\n+ Favorire la ricomposizione di informazioni (sui fenomeni o sui servizi)\n+ Favorire le reti nella comunità e logiche di “piattaforme sociali”\n\n\nEvidenze domanda\n\nI trend Demografia (passato e presente)\n\nINVECCHIAMENTO\n\nIndice di vecchiaia\nIndice di dipendenza\nTasso di natalità\nEtà media\n65+ non autosufficienti\n\nFAMIGLIA\n\ndimensione media\nfamiglie unipersonali\n\nIMMIGRAZIONE\n\nsaldo naturale | migratorio | totale\n\n\nIl profilo socio-economico\n\nPovertà lavorativa (“lavoro povero”)\nPovertà alimentare\nPovertà sanitaria (*)\nPovertà abitativa\n\nLa rete socio-sanitaria\n\ndomanda di servizi socio-sanitari\n\nindici di fragilità sociale\n\n(*) offerta di servizi socio-sanitari\n\nAssistenza agli anziani\nrinuncia a prestazioni sanitarie per motivi di economici per gli over 65\n\nAssistenza ai disabili\nSpesa sanitaria (pubblica e assicurativa) bassa in Italia rispetto ad altri paesi OCSEe in riduzione\n\n\n\n\nFonti\n\nBocconi\n\nLetizia Mencarini, Uni Bocconi - Carlo Dondena Center for Research on Social Dynamics and Public Policy - L’ITALIA NELLA «TRAPPOLA DEMOGRAFICA»\nGianluigi Bovini, AUSER Bologna - …\nFrancesco Longo, SDA Bocconi - SSN: SCENARIO E AGENDA DI POLICY\n\nAcer Parma (Loretta Losi) (r.c.Acer22Milioni2025?)\nAssessorato Politiche Sociali Comune di Parma (Ettore Brianti)\n\n\n\nVIS Fond Cariparma\n\nOutcome 1: Maggiore accessibilità a servizi e progetti\nOutcome 2: Aumento della capacità di lettura dei fenomeni e delle sfide sociali\nOutcome 3: Percezione di miglioramento dell’accesso alle informazioni\nOutcome 4: Incremento della collaborazione tra attori del welfare\n\n\n\nQuestioni emergenti"
+  },
+  {
+    "objectID": "temi.html#i-cambiamenti-del-territorio-e-dellambiente",
+    "href": "temi.html#i-cambiamenti-del-territorio-e-dellambiente",
+    "title": "Temi rilevanti",
+    "section": "2) I cambiamenti del territorio e dell’ambiente",
+    "text": "2) I cambiamenti del territorio e dell’ambiente\n\nLinea d’Azione: Trasformazioni urbane e del territorio\n- PS: Accompagnare le trasformazioni del territorio\n\n\nAmbiti intervento\n+ Promuovere modelli di governance territoriale partecipativi\n+ Promuovere le connessioni tra politiche e competenze urbanistiche, sociali e culturali\n+ Supportare le potenzialità del patrimonio di Parma (beni, luoghi e tradizioni)\n\n\nEvidenze\n\nterritori marginalizzati\naree interne\ndomanda/offerta di affitti\n\n\n\nFonti\n\n\nVIS Fond Cariparma\n\nOutcome 5: Maggiore coesione sociale\nOutcome 6: Valorizzazione del patrimonio culturale e territoriale\nOutcome 7: Incremento di pratiche di governance partecipativa e partenariati territoriali\n\n\n\nQuestioni emergenti"
+  },
+  {
+    "objectID": "temi.html#persone-e-istituzioni",
+    "href": "temi.html#persone-e-istituzioni",
+    "title": "Temi rilevanti",
+    "section": "3) Persone e istituzioni",
+    "text": "3) Persone e istituzioni\n\nLinea d’Azione: Sviluppo del capitale umano e innovazione\n- PS: Rafforzare le persone e le istituzioni\n\n\nAmbiti intervento + Supportare nuove conoscenze e nuove competenze\n+ Promuovere la capacità di programmare e progettare\n+ Sostenere le iniziative con azioni di accompagnamento e capacity building\n\n\n\nEvidenze\n\n\nFonti\n\n\nVIS Fond Cariparma\n\nOutcome 8: Incrementata cultura dell’apprendimento continuo e riconoscimento competenze\nOutcome 9: Incremento al supporto delle competenze professionali"
+  },
+  {
+    "objectID": "temi.html#area-sostenibiulità-economica",
+    "href": "temi.html#area-sostenibiulità-economica",
+    "title": "Temi rilevanti",
+    "section": "4) Area Sostenibiulità economica",
+    "text": "4) Area Sostenibiulità economica\n\nLinea d’Azione: Sostegno (r)esistente - PS:\n\n\nAmbiti intervento + Supportare attività di comunità attraverso interventi resistenti continuativi + Supportare attività tradizionali legate all’identità della comunità stessa\n\n\n\nEvidenze\n\n\nFonti\n\n\nVIS Fond Cariparma\n\nOutcome 10: Rafforzata sostenibilità e autonomia delle realtà radicate sul territorio"
+  },
+  {
+    "objectID": "posts/01_blog/index.html",
+    "href": "posts/01_blog/index.html",
+    "title": "Blog # 1 - test",
+    "section": "",
+    "text": "I contenuti attesi di questo spazio:\n\nDati, letture e spunti sul sociale\nPillole di data literacy da e per il mondo del non profit\nLeggere il presente attraverso i dati\nSpunti e domande dai dati sociali\nDati e domande sul mondo che ci circonda"
   }
 ]

@@ -57,3 +57,4 @@ zzz/**/*.*
 */zzz/**/*.*
 CLAUDE.md
 **/*.quarto_ipynb
+.positai

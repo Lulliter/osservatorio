@@ -9,7 +9,7 @@ osservatorio/
 ├── _quarto.yml           # Configurazione sito Quarto
 ├── index.qmd             # Home page
 ├── questions.qmd         # Domande e approfondimenti
-├── blog.qmd              # Listing page del blog
+├── posts.qmd              # Listing page del blog
 ├── posts/                # Post del blog
 ├── docs/                 # Output renderizzato (per GitHub Pages)
 ├── data_in/              # Dati di input (ignorati da git)

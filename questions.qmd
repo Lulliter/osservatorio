@@ -1,5 +1,5 @@
 ---
-title: "Domande e/o approfondimenti"
+title: "Spunti e domande per approfondimenti"
 subtitle: "Temi emergenti da analisi di contesto"
 author: Fondazione Cariparma - Osservatorio dei dati sociali
 date: last-modified
@@ -12,7 +12,6 @@ execute:
   error: false
   output: false
 
-bibliography: CRP_bil_miss.bib
 suppress-bibliography: false
 ---
 
@@ -23,6 +22,9 @@ suppress-bibliography: false
 ## Economia
 
 ## Servizi di assistenza socio-sanitaria (*anziani)  
+
+
+### 1. _Servizi socio-sanitari integrati_
 
 > La riorganizzazione e l’**integrazione tra assistenza ospedaliera e territoriale, sociale e sanitaria**, costituisce oggi uno degli obiettivi prioritari di politica sanitaria verso cui i sistemi sanitari più avanzati devono orientarsi per dare risposte concrete ai nuovi bisogni di salute, che non si limitano più solo a una domanda di salute, bensì contemplano un processo integrato di accompagnamento della vita in tutte le sue fasi e stati. [@Rapportosussidiarieta7682425light]
 
