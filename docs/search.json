@@ -1,93 +1,170 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Dato di realtà",
-    "section": "",
-    "text": "Blog # 1 - test\n\n\n\nnews\n\nterritorio\n\ndata literacy\n\n\n\n\n\n\n\n\n\n19 apr 2026\n\n\nLuisa M. Mimmi\n\n\n\n\n\nNessun risultato"
+    "objectID": "presentazione/slides.html#tipologia-e-attività-principale",
+    "href": "presentazione/slides.html#tipologia-e-attività-principale",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "Tipologia e attività principale",
+    "text": "Tipologia e attività principale\nxxxx"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Fondazione Cariparma - Osservatorio dei dati sociali",
-    "section": "",
-    "text": "Sito interno per condivisione di dati e analisi in vista"
+    "objectID": "presentazione/slides.html#principali-mansioni",
+    "href": "presentazione/slides.html#principali-mansioni",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "Principali mansioni",
+    "text": "Principali mansioni\n\nCurare l’analisi dei fabbisogni del territorio a supporto della redazione dei documenti di indirizzo\nPartecipare alla redazione del Piano Strategico Pluriennale e del Documento Programmatico Previsional\nCura attività valutazione in itinere ed ex-post esiti attività filantropica della Fondazione\nAggiorna su produzione scientifica rilevante e gestisce interlocuzioni con studiosi e operatori\n\n[5.] Promuove una cultura dei dati [aperti!] e contribuire all’ottimizzazione dei sistemi informativi"
   },
   {
-    "objectID": "posts/benvenuto/index.html",
-    "href": "posts/benvenuto/index.html",
-    "title": "Blog # 1 - test",
-    "section": "",
-    "text": "I contenuti attesi di questo spazio:\n\nDati, letture e spunti sul sociale\nPillole di data literacy da e per il mondo del non profit\nLeggere il presente attraverso i dati\nSpunti e domande dai dati sociali\nDati e domande sul mondo che ci circonda"
+    "objectID": "presentazione/slides.html#principali-respnsabilità",
+    "href": "presentazione/slides.html#principali-respnsabilità",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "Principali respnsabilità",
+    "text": "Principali respnsabilità\n\nCurare l’analisi dei fabbisogni del territorio a supporto della redazione dei documenti di indirizzo\nPartecipare alla redazione del Piano Strategico Pluriennale e del Documento Programmatico Previsional\nCura attività valutazione in itinere ed ex-post esiti attività filantropica della Fondazione\nAggiorna su produzione scientifica rilevante e gestisce interlocuzioni con studiosi e operatori\n\n[5.] Promuove una cultura dei dati [aperti!] e contribuire all’ottimizzazione dei sistemi informativi"
   },
   {
-    "objectID": "questions.html",
-    "href": "questions.html",
-    "title": "Spunti e domande per approfondimenti",
-    "section": "",
-    "text": "Fonte: Istat, soglia di povertà , basata sul costo della vita e filtrabile per regione, numero di figli ecc. (citato da Tommaso Vaghi il 14 aprile evento “Invisibili”)\n\n\n\n\n\n\n\nFonte: (RE-R Statistica 2025)\n\n\n\n\n\nFonte: Forum delle disuguaglianze\n\n\n\n\n\n\n\n\nLa riorganizzazione e l’integrazione tra assistenza ospedaliera e territoriale, sociale e sanitaria, costituisce oggi uno degli obiettivi prioritari di politica sanitaria verso cui i sistemi sanitari più avanzati devono orientarsi per dare risposte concrete ai nuovi bisogni di salute, che non si limitano più solo a una domanda di salute, bensì contemplano un processo integrato di accompagnamento della vita in tutte le sue fasi e stati. (Fondazione per la Sussidiarietà 19 febb 2026)\n\n\nLa programmazione/erogazione territoriale segue l’accelerazione di invecchiamento (= un carico di malattia caratterizzato dalla prevalenza delle patologie croniche e degenerative, tipiche delle popolazioni anziane)?\nLe \"Case della Salute\" (peculiarità della regione ER, già nel 2020 erano 124) o \"Case della Comunità\" (al 2026 programmate 185 in ER) possono essere un inizio di risposta alla necessità di integrare i servizi e la presa in carico?\n\npassaggio da \"Case della Salute\" a \"Case della Comunità\" (come previsto dal PNRR) che, come prospettata nel modello sanitario regionale, diventa il punto di sintesi erogativo del complesso delle prestazioni e delle attività offerte da tutte le strutture che operano a favore della salute della collettività di riferimento nell’ambito territoriale di competenza, sia erogati direttamente dal servizio sanitario regionale, sia da altri soggetti pubblici territoriali (enti locali, privati accreditati, farmacie dei servizi, reti sociali e di volontariato).\nNella Deliberazione di Giunta regionale 17 luglio 2023, n. 12061, che declina il d.m. 77/2022 I principi fondanti di tale riforma sono: il principio di prossimità; il principio di integrazione socio-sanitaria, attraverso specifici accordi con i Comuni e l’Unione di Comuni; il principio di continuità assistenziale, con percorsi strutturati che collegano l’assistenza ospedaliera, quella territoriale e quella domiciliare\n\n\n\nFonte:\n- (Fondazione per la Sussidiarietà 19 febb 2026)\n- Anna Mori -UniMI (citato da Tommaso Vaghi il 14 aprile evento “Invisibili”)"
+    "objectID": "presentazione/slides.html#curare-lanalisi-dei-fabbisogni-del-territorio-a-supporto-della-redazione-dei-documenti-di-indirizzo",
+    "href": "presentazione/slides.html#curare-lanalisi-dei-fabbisogni-del-territorio-a-supporto-della-redazione-dei-documenti-di-indirizzo",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "1. Curare l’analisi dei fabbisogni del territorio a supporto della redazione dei documenti di indirizzo",
+    "text": "1. Curare l’analisi dei fabbisogni del territorio a supporto della redazione dei documenti di indirizzo\n\nritracciato gli indicatori rilevati da Open Inpact-Sinloc nella analisi di contesto presentata il TBD…\n\nalcuni approfondimenti ad hoc (trend demografici, disabilità e non autosufficienza…)\nindagine empirica sull’offerta di trasporto sociale con interviste mirate a 7 enti\n\n\n\n…"
   },
   {
-    "objectID": "questions.html#servizi-di-assistenza-socio-sanitaria-anziani",
-    "href": "questions.html#servizi-di-assistenza-socio-sanitaria-anziani",
-    "title": "Spunti e domande per approfondimenti",
-    "section": "",
-    "text": "La riorganizzazione e l’integrazione tra assistenza ospedaliera e territoriale, sociale e sanitaria, costituisce oggi uno degli obiettivi prioritari di politica sanitaria verso cui i sistemi sanitari più avanzati devono orientarsi per dare risposte concrete ai nuovi bisogni di salute, che non si limitano più solo a una domanda di salute, bensì contemplano un processo integrato di accompagnamento della vita in tutte le sue fasi e stati. (Fondazione per la Sussidiarietà 19 febb 2026)\n\n\nLa programmazione/erogazione territoriale segue l’accelerazione di invecchiamento (= un carico di malattia caratterizzato dalla prevalenza delle patologie croniche e degenerative, tipiche delle popolazioni anziane)?\nLe \"Case della Salute\" (peculiarità della regione ER, già nel 2020 erano 124) o \"Case della Comunità\" (al 2026 programmate 185 in ER) possono essere un inizio di risposta alla necessità di integrare i servizi e la presa in carico?\n\npassaggio da \"Case della Salute\" a \"Case della Comunità\" (come previsto dal PNRR) che, come prospettata nel modello sanitario regionale, diventa il punto di sintesi erogativo del complesso delle prestazioni e delle attività offerte da tutte le strutture che operano a favore della salute della collettività di riferimento nell’ambito territoriale di competenza, sia erogati direttamente dal servizio sanitario regionale, sia da altri soggetti pubblici territoriali (enti locali, privati accreditati, farmacie dei servizi, reti sociali e di volontariato).\nNella Deliberazione di Giunta regionale 17 luglio 2023, n. 12061, che declina il d.m. 77/2022 I principi fondanti di tale riforma sono: il principio di prossimità; il principio di integrazione socio-sanitaria, attraverso specifici accordi con i Comuni e l’Unione di Comuni; il principio di continuità assistenziale, con percorsi strutturati che collegano l’assistenza ospedaliera, quella territoriale e quella domiciliare\n\n\n\nFonte:\n- (Fondazione per la Sussidiarietà 19 febb 2026)\n- Anna Mori -UniMI (citato da Tommaso Vaghi il 14 aprile evento “Invisibili”)"
+    "objectID": "presentazione/slides.html#partecipare-alla-redazione-del-piano-strategico-pluriennale-e-del-documento-programmatico-previsional",
+    "href": "presentazione/slides.html#partecipare-alla-redazione-del-piano-strategico-pluriennale-e-del-documento-programmatico-previsional",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "2. Partecipare alla redazione del Piano Strategico Pluriennale e del Documento Programmatico Previsional",
+    "text": "2. Partecipare alla redazione del Piano Strategico Pluriennale e del Documento Programmatico Previsional\n\n…"
   },
   {
-    "objectID": "temi.html",
-    "href": "temi.html",
-    "title": "Temi rilevanti",
-    "section": "",
-    "text": "[ ⚠️ Work in progress … ⚠️ ]"
+    "objectID": "presentazione/slides.html#cura-attività-valutazione-in-itinere-ed-ex-post-esiti-attività-filantropica-della-fondazione",
+    "href": "presentazione/slides.html#cura-attività-valutazione-in-itinere-ed-ex-post-esiti-attività-filantropica-della-fondazione",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "3. Cura attività valutazione in itinere ed ex-post esiti attività filantropica della Fondazione",
+    "text": "3. Cura attività valutazione in itinere ed ex-post esiti attività filantropica della Fondazione\n\n…\n\n\n…"
   },
   {
-    "objectID": "temi.html#i-cambiamenti-della-società-e-gli-impatti-per-il-sistema-di-welfare",
-    "href": "temi.html#i-cambiamenti-della-società-e-gli-impatti-per-il-sistema-di-welfare",
-    "title": "Temi rilevanti",
-    "section": "1) I cambiamenti della società e gli impatti per il sistema di welfare",
-    "text": "1) I cambiamenti della società e gli impatti per il sistema di welfare\n\nLinea d’Azione: Società e sfide per il welfare\n- PS: ridurre disuguaglianze\n\n\nContributo: tutti i bandi Ambiti intervento\n+ Favorire le reti a supporto dei caregiver\n+ Favorire la ricomposizione di informazioni (sui fenomeni o sui servizi)\n+ Favorire le reti nella comunità e logiche di “piattaforme sociali”\n\n\nEvidenze domanda\n\nI trend Demografia (passato e presente)\n\nINVECCHIAMENTO\n\nIndice di vecchiaia\nIndice di dipendenza\nTasso di natalità\nEtà media\n65+ non autosufficienti\n\nFAMIGLIA\n\ndimensione media\nfamiglie unipersonali\n\nIMMIGRAZIONE\n\nsaldo naturale | migratorio | totale\n\n\nIl profilo socio-economico\n\nPovertà lavorativa (“lavoro povero”)\nPovertà alimentare\nPovertà sanitaria (*)\nPovertà abitativa\n\nLa rete socio-sanitaria\n\ndomanda di servizi socio-sanitari\n\nindici di fragilità sociale\n\n(*) offerta di servizi socio-sanitari\n\nAssistenza agli anziani\nrinuncia a prestazioni sanitarie per motivi di economici per gli over 65\n\nAssistenza ai disabili\nSpesa sanitaria (pubblica e assicurativa) bassa in Italia rispetto ad altri paesi OCSEe in riduzione\n\n\n\n\nFonti\n\nBocconi\n\nLetizia Mencarini, Uni Bocconi - Carlo Dondena Center for Research on Social Dynamics and Public Policy - L’ITALIA NELLA «TRAPPOLA DEMOGRAFICA»\nGianluigi Bovini, AUSER Bologna - …\nFrancesco Longo, SDA Bocconi - SSN: SCENARIO E AGENDA DI POLICY\n\nAcer Parma (Loretta Losi) (r.c.Acer22Milioni2025?)\nAssessorato Politiche Sociali Comune di Parma (Ettore Brianti)\n\n\n\nVIS Fond Cariparma\n\nOutcome 1: Maggiore accessibilità a servizi e progetti\nOutcome 2: Aumento della capacità di lettura dei fenomeni e delle sfide sociali\nOutcome 3: Percezione di miglioramento dell’accesso alle informazioni\nOutcome 4: Incremento della collaborazione tra attori del welfare\n\n\n\nQuestioni emergenti"
+    "objectID": "presentazione/slides.html#aggiorna-su-produzione-scientifica-rilevante-e-gestisce-interlocuzioni-con-studiosi-e-operatori",
+    "href": "presentazione/slides.html#aggiorna-su-produzione-scientifica-rilevante-e-gestisce-interlocuzioni-con-studiosi-e-operatori",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "4. Aggiorna su produzione scientifica rilevante e gestisce interlocuzioni con studiosi e operatori",
+    "text": "4. Aggiorna su produzione scientifica rilevante e gestisce interlocuzioni con studiosi e operatori\n\n…\n\n\n…"
   },
   {
-    "objectID": "temi.html#i-cambiamenti-del-territorio-e-dellambiente",
-    "href": "temi.html#i-cambiamenti-del-territorio-e-dellambiente",
-    "title": "Temi rilevanti",
-    "section": "2) I cambiamenti del territorio e dell’ambiente",
-    "text": "2) I cambiamenti del territorio e dell’ambiente\n\nLinea d’Azione: Trasformazioni urbane e del territorio\n- PS: Accompagnare le trasformazioni del territorio\n\n\nAmbiti intervento\n+ Promuovere modelli di governance territoriale partecipativi\n+ Promuovere le connessioni tra politiche e competenze urbanistiche, sociali e culturali\n+ Supportare le potenzialità del patrimonio di Parma (beni, luoghi e tradizioni)\n\n\nEvidenze\n\nterritori marginalizzati\naree interne\ndomanda/offerta di affitti\n\n\n\nFonti\n\n\nVIS Fond Cariparma\n\nOutcome 5: Maggiore coesione sociale\nOutcome 6: Valorizzazione del patrimonio culturale e territoriale\nOutcome 7: Incremento di pratiche di governance partecipativa e partenariati territoriali\n\n\n\nQuestioni emergenti"
+    "objectID": "presentazione/slides.html#promuove-una-cultura-dei-dati-aperti-e-contribuire-allottimizzazione-dei-sistemi-informativi",
+    "href": "presentazione/slides.html#promuove-una-cultura-dei-dati-aperti-e-contribuire-allottimizzazione-dei-sistemi-informativi",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "[5.] Promuove una cultura dei dati [aperti!] e contribuire all’ottimizzazione dei sistemi informativi",
+    "text": "[5.] Promuove una cultura dei dati [aperti!] e contribuire all’ottimizzazione dei sistemi informativi\n\n\n\n\n\n\nProssimi passi:\n\n\n…"
   },
   {
-    "objectID": "temi.html#persone-e-istituzioni",
-    "href": "temi.html#persone-e-istituzioni",
-    "title": "Temi rilevanti",
-    "section": "3) Persone e istituzioni",
-    "text": "3) Persone e istituzioni\n\nLinea d’Azione: Sviluppo del capitale umano e innovazione\n- PS: Rafforzare le persone e le istituzioni\n\n\nAmbiti intervento + Supportare nuove conoscenze e nuove competenze\n+ Promuovere la capacità di programmare e progettare\n+ Sostenere le iniziative con azioni di accompagnamento e capacity building\n\n\n\nEvidenze\n\n\nFonti\n\n\nVIS Fond Cariparma\n\nOutcome 8: Incrementata cultura dell’apprendimento continuo e riconoscimento competenze\nOutcome 9: Incremento al supporto delle competenze professionali"
+    "objectID": "presentazione/slides.html#principali-responsabilità",
+    "href": "presentazione/slides.html#principali-responsabilità",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "Principali responsabilità",
+    "text": "Principali responsabilità\n\n\nCurare l’analisi dei fabbisogni del territorio a supporto documenti di indirizzo (PS pluriennale + DPP)\nPartecipare alla redazione di materiali per Bilancio di missione e attività della comunicazione\nCurare attività valutazione in itinere ed ex-post esiti attività filantropica della Fondazione\nAggiornare su produzione scientifica rilevante e gestire interlocuzioni con studiosi e operatori\n\n[5.] Promuovere una cultura dei dati [aperti!] e contribuire all’ottimizzazione dei sistemi informativi"
   },
   {
-    "objectID": "temi.html#area-sostenibiulità-economica",
-    "href": "temi.html#area-sostenibiulità-economica",
-    "title": "Temi rilevanti",
-    "section": "4) Area Sostenibiulità economica",
-    "text": "4) Area Sostenibiulità economica\n\nLinea d’Azione: Sostegno (r)esistente - PS:\n\n\nAmbiti intervento + Supportare attività di comunità attraverso interventi resistenti continuativi + Supportare attività tradizionali legate all’identità della comunità stessa\n\n\n\nEvidenze\n\n\nFonti\n\n\nVIS Fond Cariparma\n\nOutcome 10: Rafforzata sostenibilità e autonomia delle realtà radicate sul territorio"
+    "objectID": "presentazione/slides.html#curare-lanalisi-dei-fabbisogni-del-territorio---input-documenti-di-indirizzo",
+    "href": "presentazione/slides.html#curare-lanalisi-dei-fabbisogni-del-territorio---input-documenti-di-indirizzo",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "1. Curare l’analisi dei fabbisogni del territorio - input documenti di indirizzo",
+    "text": "1. Curare l’analisi dei fabbisogni del territorio - input documenti di indirizzo\n\nritracciato gli indicatori rilevati da Open Inpact-Sinloc nella analisi di contesto presentata il TBD…\n\nalcuni approfondimenti ad hoc (trend demografici, disabilità e non autosufficienza…)\nindagine empirica sull’offerta di trasporto sociale con interviste mirate a 7 enti\n\nprossimi passi:\n\nidentificare argomenti specifici su cui focalizzare attenzione \ncurare un “blog” dell’Osservatorio per segnalare spunti via via raccolti (visualizzazioni interessanti, dati aggiornati, ecc)\n\n\n\n…"
   },
   {
-    "objectID": "posts/01_blog/index.html",
-    "href": "posts/01_blog/index.html",
-    "title": "Blog # 1 - test",
-    "section": "",
-    "text": "I contenuti attesi di questo spazio:\n\nDati, letture e spunti sul sociale\nPillole di data literacy da e per il mondo del non profit\nLeggere il presente attraverso i dati\nSpunti e domande dai dati sociali\nDati e domande sul mondo che ci circonda"
+    "objectID": "presentazione/slides.html#curare-lanalisi-dei-fabbisogni-del-territorio-a-supporto-documenti-di-indirizzo",
+    "href": "presentazione/slides.html#curare-lanalisi-dei-fabbisogni-del-territorio-a-supporto-documenti-di-indirizzo",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "1. Curare l’analisi dei fabbisogni del territorio a supporto documenti di indirizzo",
+    "text": "1. Curare l’analisi dei fabbisogni del territorio a supporto documenti di indirizzo\n\n\nValidato gli indicatori rilevati da OpenImpact-Sinloc nella analisi di contesto presentata il TBD…\n\napprofondimenti ad hoc (trend demografici, disabilità e non autosufficienza…)\ncondotto indagine empirica sull’offerta di trasporto sociale con interviste mirate a 7 enti\n\n\n\nProssimi passi:\n\nidentificare argomenti specifici su cui focalizzare attenzione EXE…\n\n\n\navviare un “blog” dell’Osservatorio articolato in rubriche tematiche:\n\nPillole di dati — mini visualizzazioni e focus su dati territoriali\nCultura del dato — metodi e strumenti per analizzare i dati\nInterviste — punti di vista di analisti dei dati sociali\nAggiornamenti — novità sui dataset monitorati\n\n\n\n\n…"
   },
   {
-    "objectID": "questions.html#demog-econ-geospatial-analysis",
-    "href": "questions.html#demog-econ-geospatial-analysis",
-    "title": "Spunti e domande per approfondimenti",
-    "section": "",
-    "text": "Fonte: (RE-R Statistica 2025)\n\n\n\n\n\nFonte: Forum delle disuguaglianze"
+    "objectID": "presentazione/slides.html#partecipare-alla-redazione-di-materiali-per-bilancio-di-missione-e-attività-della-comunicazione",
+    "href": "presentazione/slides.html#partecipare-alla-redazione-di-materiali-per-bilancio-di-missione-e-attività-della-comunicazione",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "2. Partecipare alla redazione di materiali per Bilancio di missione e attività della comunicazione",
+    "text": "2. Partecipare alla redazione di materiali per Bilancio di missione e attività della comunicazione\n\n\nredatto analisi di contesto per Bilancio di missione 2025\n\n\nProssimi passi:\n\nidentificare con Area Erogativa focus tematici di anno in anno EXE…\nricognizione sistematica di vari output analitici (e.g. studi, convegni, ecc.):\n\nrelazioni degli Enti\ndocumenti preliminari degli Advisor EXE…\n\n\n\n\n\n…"
   },
   {
-    "objectID": "questions.html#economia",
-    "href": "questions.html#economia",
-    "title": "Spunti e domande per approfondimenti",
-    "section": "",
-    "text": "Fonte: Istat, soglia di povertà , basata sul costo della vita e filtrabile per regione, numero di figli ecc. (citato da Tommaso Vaghi il 14 aprile evento “Invisibili”)"
+    "objectID": "presentazione/slides.html#partecipare-alla-redazione-di-materiali-per-bilancio-di-missione-e-attività-di-comunicazione",
+    "href": "presentazione/slides.html#partecipare-alla-redazione-di-materiali-per-bilancio-di-missione-e-attività-di-comunicazione",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "2. Partecipare alla redazione di materiali per Bilancio di missione e attività di comunicazione",
+    "text": "2. Partecipare alla redazione di materiali per Bilancio di missione e attività di comunicazione\n\n\nredatto analisi di contesto per Bilancio di missione 2025\n\n\nProssimi passi:\n\nidentificare con Area Erogativa focus tematici di anno in anno EXE…\nricognizione sistematica di vari output analitici (e.g. studi, convegni, ecc.):\n\nrelazioni degli Enti\ndocumenti preliminari degli Advisor EXE…\n\n\n\n\n\n…"
+  },
+  {
+    "objectID": "presentazione/slides.html#curare-attività-valutazione-in-itinere-ed-ex-post-esiti-attività-filantropica-della-fondazione",
+    "href": "presentazione/slides.html#curare-attività-valutazione-in-itinere-ed-ex-post-esiti-attività-filantropica-della-fondazione",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "3. Curare attività valutazione in itinere ed ex-post esiti attività filantropica della Fondazione",
+    "text": "3. Curare attività valutazione in itinere ed ex-post esiti attività filantropica della Fondazione\n\n\nInterlocuzioni con OpenImpact-Sinloc e contributi sull’impianto teorico della valutazione\nPreso in carico (lato Fondazione) il coordinamento di Evaluation Lab, questionari e focus group, e le loro richieste di dati interni\n\n\n\n\nProssimi passi:\n\ngestire alcune domande sulla valutazione dei Progetti propri (approfondimenti di dati richiesti)\nvalidare i risultati ottenuti dai questionari agli enti\nfornire feedback lato utente sul loro sistema informativo (Impact Manager)\n\n\n\nDONA:\n- adesso x4 anni (+2?) quell'impianto Open ce lo teniamo perchè è stato messo nel Piano Strategico ed è lo strumento per comply con impegni presi\n- quel lavoro li lo fanno loro xò il tuo è un ruolo di INTERMEDIARIO -- tu devi saperlo usare (essere in grado di gestirlo quel prodotto - se io ti chiedo tirami fuori la valutazione per bando)\n- poi è chiaro che loro vogliono venderti un pacchetto e se possibile renderti \n- ❓ potremmo pian piano staccarci e usare un altro sistema..."
+  },
+  {
+    "objectID": "presentazione/slides.html#aggiornare-su-produzione-scientifica-rilevante-e-gestisce-interlocuzioni-con-studiosi-e-operatori",
+    "href": "presentazione/slides.html#aggiornare-su-produzione-scientifica-rilevante-e-gestisce-interlocuzioni-con-studiosi-e-operatori",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "4. Aggiornare su produzione scientifica rilevante e gestisce interlocuzioni con studiosi e operatori",
+    "text": "4. Aggiornare su produzione scientifica rilevante e gestisce interlocuzioni con studiosi e operatori\n\n\nAvviato dialogo con enti di ricerca, Osservatori di altre fondazioni, e operatori rilevanti su:\n\ndisponibilità/aggiornamento di dati specifici (e.g. R-ER Statistica, AICCON, Secondo Welfare, … )\nsoftware e strumenti per la raccolta e l’analisi dei dati per il Terzo Settore (e.g. Techsoup, Posit, LimeSurvey, …)\n\n\n\nProssimi passi:\n\nIn dialogo con Donatella, definire meglio output dell’Osservatorio che siano necessari e insieme commisurati alle forze:\n\nricerche “in-house” v. commissionate ad altri\n\nContinuare a presidiare eventi rilevanti e restituire alla struttura spunti utili\n\n\n\n…"
+  },
+  {
+    "objectID": "presentazione/slides.html#promuovere-una-cultura-dei-dati-aperti-e-contribuire-allottimizzazione-dei-sistemi-informativi",
+    "href": "presentazione/slides.html#promuovere-una-cultura-dei-dati-aperti-e-contribuire-allottimizzazione-dei-sistemi-informativi",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "[5.] Promuovere una cultura dei dati [aperti!] e contribuire all’ottimizzazione dei sistemi informativi",
+    "text": "[5.] Promuovere una cultura dei dati [aperti!] e contribuire all’ottimizzazione dei sistemi informativi\n\n\nImpostati strumenti di lavoro per produrre analisi (più possibile) automatizzate, riproducibili (R, Quarto)\nCreati mini-siti tematici per la condivisione dei lavori dell’Osservatorio con i colleghi via intranet https://analisidati.fondazionecrp.it/1\n\n\nProssimi passi:\n\nPromuovere una cultura dei dati aperti e accessibili e di metodi di analisi riproducibili\nPreparare seminari, materiali formativi, e collaborare con UniPR a questo fine\nContribuire a vagliare la disponibilità e opportunità di strumenti di IA\n\n\n\n…\n\n Questo link si apre solo dentro il dominio DFCRPR"
+  },
+  {
+    "objectID": "presentazione/slides.html#meta-sito-condivisione-interna-di-progetti-e-artefatti-analitici",
+    "href": "presentazione/slides.html#meta-sito-condivisione-interna-di-progetti-e-artefatti-analitici",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "\"Meta sito\" (condivisione interna di progetti e artefatti analitici)",
+    "text": "\"Meta sito\" (condivisione interna di progetti e artefatti analitici)"
+  },
+  {
+    "objectID": "presentazione/slides.html#meta-sito---condivisione-interna-di-progetti-e-artefatti-analitici",
+    "href": "presentazione/slides.html#meta-sito---condivisione-interna-di-progetti-e-artefatti-analitici",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "\"Meta sito\" - condivisione interna di progetti e artefatti analitici",
+    "text": "\"Meta sito\" - condivisione interna di progetti e artefatti analitici"
+  },
+  {
+    "objectID": "presentazione/slides.html#meta-sito---condivisione-interna-di-progetti-analitici",
+    "href": "presentazione/slides.html#meta-sito---condivisione-interna-di-progetti-analitici",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "\"Meta sito\" - condivisione interna di progetti analitici",
+    "text": "\"Meta sito\" - condivisione interna di progetti analitici"
+  },
+  {
+    "objectID": "presentazione/slides.html#meta-sito---condivisione-interna-di-progetti-analitici-e-spunti-vari",
+    "href": "presentazione/slides.html#meta-sito---condivisione-interna-di-progetti-analitici-e-spunti-vari",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "\"Meta sito\" - condivisione interna di progetti analitici e spunti vari",
+    "text": "\"Meta sito\" - condivisione interna di progetti analitici e spunti vari\n\n\n\n[Accessibile solo da rete aziendale]"
+  },
+  {
+    "objectID": "presentazione/slides.html#aggiornare-su-produzione-scientifica-rilevante-e-gestire-interlocuzioni-con-studiosi-e-operatori",
+    "href": "presentazione/slides.html#aggiornare-su-produzione-scientifica-rilevante-e-gestire-interlocuzioni-con-studiosi-e-operatori",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "4. Aggiornare su produzione scientifica rilevante e gestire interlocuzioni con studiosi e operatori",
+    "text": "4. Aggiornare su produzione scientifica rilevante e gestire interlocuzioni con studiosi e operatori\n\n\nAvviato dialogo con enti di ricerca, Osservatori di altre fondazioni, e operatori rilevanti su:\n\ndisponibilità/aggiornamento di dati specifici (e.g. R-ER Statistica, AICCON, Secondo Welfare, … )\nsoftware e strumenti per la raccolta e l’analisi dei dati per il Terzo Settore (e.g. Techsoup, Posit, LimeSurvey, …)\n\n\n\nProssimi passi:\n\nIn dialogo con Donatella, definire meglio output dell’Osservatorio che siano utili e insieme commisurati alle forze:\n\nricerche “in-house” v. commissionate ad altri\n\nContinuare a presidiare eventi rilevanti e restituire alla struttura spunti utili\n\n\n\n…"
+  },
+  {
+    "objectID": "presentazione/slides.html#monitorare-la-produzione-scientifica-rilevante-e-gestire-interlocuzioni-con-studiosi-e-operatori",
+    "href": "presentazione/slides.html#monitorare-la-produzione-scientifica-rilevante-e-gestire-interlocuzioni-con-studiosi-e-operatori",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "4. Monitorare la produzione scientifica rilevante e gestire interlocuzioni con studiosi e operatori",
+    "text": "4. Monitorare la produzione scientifica rilevante e gestire interlocuzioni con studiosi e operatori\n\n\nAvviato dialogo con enti di ricerca, Osservatori di altre fondazioni, e operatori rilevanti su:\n\ndisponibilità/aggiornamento di dati specifici (e.g. R-ER Statistica, AICCON, Secondo Welfare, … )\nsoftware e strumenti per la raccolta e l’analisi dei dati per il Terzo Settore (e.g. Techsoup, Posit, LimeSurvey, …)\n\n\n\nProssimi passi:\n\nIn dialogo con Donatella, definire meglio output dell’Osservatorio che siano utili e insieme commisurati alle forze:\n\nricerche “in-house” v. commissionate ad altri\n\nContinuare a presidiare eventi rilevanti e restituire alla struttura spunti utili\n\n\n\n…"
+  },
+  {
+    "objectID": "presentazione/slides.html#quadro-attuale-elementi-per-il-confronto-con-il-cda",
+    "href": "presentazione/slides.html#quadro-attuale-elementi-per-il-confronto-con-il-cda",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "Quadro attuale — elementi per il confronto con il CdA",
+    "text": "Quadro attuale — elementi per il confronto con il CdA\n\nNell’anno sono state impostate tutte e 4 le aree di lavoro [+ 1] dell’Osservatorio, con interlocuzioni attivate verso enti di ricerca, Osservatori di altre fondazioni, fornitori di strumenti, e struttura interna.\n\nCon il perimetro attuale emergono alcune scelte di indirizzo che attengono al CdA:\n\nProfondità vs ampiezza — su quali temi concentrare approfondimenti in-house e quali limitare al monitoraggio\nIn-house vs commissionato — quali analisi sostenere con risorse esterne (es. studi tematici, valutazioni dedicate)\nDimensionamento dell’Osservatorio — come calibrare l’attività rispetto agli obiettivi del Piano Strategico pluriennale"
+  },
+  {
+    "objectID": "presentazione/slides.html#per-discussione-con-il-cda",
+    "href": "presentazione/slides.html#per-discussione-con-il-cda",
+    "title": "Osservatorio dei Dati Sociali",
+    "section": "Per discussione con il CdA",
+    "text": "Per discussione con il CdA\n\nDa settembre sono state impostate tutte e 4 (+1) aree di lavoro dell’Osservatorio, con interlocuzioni attivate verso enti di ricerca, Osservatori di altre fondazioni, fornitori di strumenti, e struttura interna.\n\nPossibili ambiti di confronto per alcune scelte di indirizzo:\n\nProfondità vs ampiezza — su quali temi concentrare approfondimenti in-house e quali limitare al monitoraggio\nIn-house vs commissionato — quali analisi sostenere con risorse esterne (es. studi tematici, valutazioni dedicate)\nDimensionamento dell’Osservatorio — come calibrare l’attività rispetto agli obiettivi del Piano Strategico pluriennale"
   }
 ]

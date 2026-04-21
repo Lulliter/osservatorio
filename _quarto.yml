@@ -13,7 +13,10 @@ website:
         text: ... per approfondimenti
       - href: posts.qmd
         text: Dato di realtà
-
+      - href: Presentazione
+        text: presentazione/slides.qmd
+        
+        
 bibliography: CRP_bil_miss.bib
 
 format:

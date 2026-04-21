@@ -1,0 +1,17 @@
+---
+title: "Presentazione ad uso interno"
+format:
+  html:
+    toc: false
+---
+
+[Apri a schermo intero](slides.html){target="_blank" .btn .btn-primary .btn-sm} | [Scarica PDF](slides.pdf){.btn .btn-outline-secondary .btn-sm}
+
+```{=html}
+<iframe
+  src="slides.html"
+  width="100%"
+  height="600"
+  style="border: 1px solid #ccc; border-radius: 4px;">
+</iframe>
+```
