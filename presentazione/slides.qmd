@@ -95,8 +95,16 @@ slide_table <- function(name, tight = FALSE, ...) {
 
   - identificare argomenti specifici su cui focalizzare attenzione [EXE...]{style="background-color: #ffd500; padding: 0 4px;"}
   
-  <!-- ES le case di comunità / gli anziani soli e dove sono?  -->
-  
+  <!-- ES le case di comunità come laboratorio di integrazione socio-sanitaria/ 
+      - localizzare la fragilita sul territorio 
+        - gli anziani soli e dove sono?  
+        - indice di fragilità
+        - indice di rugosità
+      - la popolazione immigrata & il lavoro 
+      - gli invisibili
+      - il nesso tra # figli e povertà
+  -->
+ 
 - avviare un =="blog" dell'Osservatorio== articolato in rubriche tematiche:
   + `Pillole di dati` — mini visualizzazioni e focus su dati territoriali
   + `Cultura del dato` — metodi e strumenti per analizzare i dati
@@ -122,7 +130,7 @@ slide_table <- function(name, tight = FALSE, ...) {
     - relazioni degli Enti 
     - documenti preliminari degli Advisor [EXE...]{style="background-color: #ffd500; padding: 0 4px;"}
   
-  <!-- ES le case di comunità / gli anziani soli e dove sono?  -->
+<!-- non basta erogare risorse: occorre rafforzare chi le riceve affinché possa operare in modo sempre più efficace e autonomo  -->
 
 :::  
 
@@ -144,7 +152,7 @@ slide_table <- function(name, tight = FALSE, ...) {
 <br>
 
 ### **Prossimi passi**:  
-+ gestire alcune domande sulla valutazione dei Progetti propri (approfondimenti di dati richiesti)
++ gestire alcune criticità sulla valutazione dei Progetti Propri
 + validare i risultati ottenuti dai questionari agli enti 
 + fornire feedback lato utente sul loro sistema informativo (`Impact Manager`)  
 
@@ -159,7 +167,17 @@ DONA:
 - quel lavoro li lo fanno loro xò il tuo è un ruolo di INTERMEDIARIO -- tu devi saperlo usare (essere in grado di gestirlo quel prodotto - se io ti chiedo tirami fuori la valutazione per bando)
 - poi è chiaro che loro vogliono venderti un pacchetto e se possibile renderti 
 - ❓ potremmo pian piano staccarci e usare un altro sistema...  
+
 ```
+
+> dimensioni oggi non rilevate sistematicamente: 
+
+1. la maturità valutativa degli enti, 
+2. la natura delle collaborazioni attivate, 
+3. l'effetto leva finanziaria, 
+4. la sostenibilità economica delle organizzazioni, 
+5. l'evoluzione delle capacità organizzative
+
 :::
  
 ## 4. Monitorare la `produzione scientifica rilevante` e gestire interlocuzioni con studiosi e operatori 
@@ -172,9 +190,9 @@ DONA:
 
 ### **Prossimi passi**:  
 
-- In dialogo con Donatella, definire meglio output dell'Osservatorio che siano utili e insieme commisurati alle forze:
-  - ricerche "in-house" v. commissionate ad altri
-- Continuare a presidiare eventi rilevanti e restituire alla struttura spunti utili
+- presidiare eventi rilevanti e curarne restituzione/divulgazione all'interno della fondazione
+
+<!-- 6 maggio - 8 Osservatorio del LTC in Bocconi  -->
 
 :::
 ::: {.notes}
@@ -201,15 +219,18 @@ DONA:
 ## Per discussione con il CdA
 
 ::: {style="font-size: 70%;"}
-Da settembre sono state **impostate tutte e 4 (+1) aree di lavoro** dell'Osservatorio, con interlocuzioni attivate verso enti di ricerca, Osservatori di altre fondazioni, fornitori di strumenti, e struttura interna.
+<!-- Da settembre sono state impostate tutte e 4 `(+1)` aree di lavoro dell'Osservatorio, con diverse collaborazioni attivate ed alcune analisi approfondite: 
 
-<br>
+<br> -->
 
 Possibili ambiti di confronto per alcune scelte di ==indirizzo==:
 
-+ **Profondità vs ampiezza** — su quali temi concentrare approfondimenti in-house e quali limitare al monitoraggio
-+ **In-house vs commissionato** — quali analisi sostenere con risorse esterne (es. studi tematici, valutazioni dedicate)
-+ **Dimensionamento dell'Osservatorio** — come calibrare l'attività rispetto agli obiettivi del Piano Strategico pluriennale
++ **Dare visibilità al lavoro dell'Osservatorio** — con `output modulari` (blog, rubriche, mini-analisi), affiancati ad alcuni `studi di ampio respiro` a cadenza più lunga
+
++ **Profondità vs ampiezza** — discernere temi strategicamente rilevanti per cui valga la pena pianificare ricerche approfondite (anche con `raccolta di dati sperimentali` _ad hoc_)
+  - e.g. indagine sul trasporto sociale 
+
++ **In-house vs commissionato** — criteri per distinguere le analisi da tenere `in house` (dove abbiamo ==vantaggio== competitivo, e.g. il rapporto diretto con gli Enti) da quelle da commissionare a terzi
 
 :::
 
@@ -217,13 +238,23 @@ Possibili ambiti di confronto per alcune scelte di ==indirizzo==:
 # Allegati
 
 
-## `"Meta sito"` - condivisione _interna_ di progetti analitici e spunti vari
+## Condivisione _interna_ di progetti analitici e spunti vari
 
 ![](../assets/meta_sito.png){width=80%}
 
 ::: aside
 [Accessibile solo da rete aziendale]
 :::
+
+## Indagine sul trasporto sociale 
+
+![](../assets/trasp_tab.png){width=90%}
+
+::: aside
+[Disponibile analisi appena ultimata]
+:::
+
+
 
 ## Quarto - HIDDEN {visibility="hidden"}
 
