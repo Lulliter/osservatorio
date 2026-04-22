@@ -127,8 +127,7 @@ suppress-bibliography: false
   + Promuovere la capacità di programmare e progettare  
   + Sostenere le iniziative con azioni di accompagnamento e capacity building  
 
-<!-- non basta erogare risorse: occorre rafforzare chi le riceve affinché possa
-operare in modo sempre più efficace e autonomo  -->
+<!-- non basta erogare risorse: occorre rafforzare chi le riceve affinché possa operare in modo sempre più efficace e autonomo  -->
 
 ### Evidenze 
 
@@ -139,7 +138,7 @@ operare in modo sempre più efficace e autonomo  -->
 + *Outcome 8*: Incrementata cultura dell'apprendimento continuo e riconoscimento competenze
 + *Outcome 9*: Incremento al supporto delle competenze professionali
 
-## 4) Area Sostenibiulità economica 
+## 4) Area Sostenibilità economica 
 
 > Linea d'Azione: Sostegno (r)esistente
    - PS:  
@@ -148,8 +147,7 @@ operare in modo sempre più efficace e autonomo  -->
   + Supportare attività di comunità attraverso interventi resistenti continuativi
   + Supportare attività tradizionali legate all'identità della comunità stessa
 
-<!-- non basta erogare risorse: occorre rafforzare chi le riceve affinché possa
-operare in modo sempre più efficace e autonomo  -->
+<!-- non basta erogare risorse: occorre rafforzare chi le riceve affinché possa operare in modo sempre più efficace e autonomo  -->
 
 ### Evidenze 
 
@@ -176,7 +174,7 @@ operare in modo sempre più efficace e autonomo  -->
 # I 3 ambiti di intervento trasversali:
 
 1. Valorazzare il capitale umano e sociale: _questo avviene soprattutto con la collaborazione_
-  + Maggiore coesione sociale (s icollega a disuguaglianze, contesto di isolameto, frammentazione, famiglia unipersonale, corpi intermedi che si indeboliscono ...)
+  + Maggiore coesione sociale (si collega a disuguaglianze, contesto di isolameto, frammentazione, famiglia unipersonale, corpi intermedi che si indeboliscono ...)
 2. Generare consapevolezza, partecipazione e protagonismo
 3. Valorizzare l'innovazione 
 

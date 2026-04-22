@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lulliter.github.io/osservatorio/presentazione/slides.html</loc>
-    <lastmod>2026-04-21T20:44:17.750Z</lastmod>
+    <loc>https://lulliter.github.io/osservatorio/questions.html</loc>
+    <lastmod>2026-04-20T13:00:19.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lulliter.github.io/osservatorio/posts/01_blog/index.html</loc>
+    <lastmod>2026-04-22T08:02:32.236Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lulliter.github.io/osservatorio/index.html</loc>
+    <lastmod>2026-04-22T07:48:06.620Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lulliter.github.io/osservatorio/posts.html</loc>
+    <lastmod>2026-04-22T08:06:41.508Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lulliter.github.io/osservatorio/posts/02_blog/index.html</loc>
+    <lastmod>2026-04-22T08:15:02.821Z</lastmod>
   </url>
 </urlset>

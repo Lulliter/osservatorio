@@ -1,6 +1,23 @@
 ---
-title: "Fondazione Cariparma - Osservatorio dei dati sociali"
-subtitle: "Blog e spunti di ricerca"
+title: ""
+subtitle: "Fondazione Cariparma"
 ---
 
-Sito interno per condivisione di dati e analisi in vista  
+⚠️ in construzione ⚠️ 
+
+Sito interno per condivisione di dati e spunti di ricerca da pubblicare nel blog dell'Osservatorio...
+
+
+# Forthcoming 
+
+
+  
+  <!-- ES le case di comunità come laboratorio di integrazione socio-sanitaria/ 
+      - localizzare la fragilita sul territorio 
+        - gli anziani soli e dove sono?  
+        - indice di fragilità
+        - indice di rugosità
+      - la popolazione immigrata & il lavoro 
+      - gli invisibili
+      - il nesso tra # figli e povertà
+  -->

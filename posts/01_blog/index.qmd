@@ -2,10 +2,15 @@
 title: "Blog # 1 - test"
 author: "Luisa M. Mimmi"
 date: "2026-04-19"
-categories: [news, territorio, data literacy]
+tipo: PLACEHOLDER_TIPO                                  # un solo tipo articolo (es: report, news, ...)
+categories: [PLACEHOLDER_TEMA_1, PLACEHOLDER_TEMA_2]    # i temi → pill cliccabili standard Quarto + filtro sidebar
 ---
 
-I contenuti attesi di questo spazio: 
+::: {.post-tipo-badge}
+Tipo: {{< meta tipo >}}
+:::
+
+I contenuti attesi di questo spazio:
 
 + Dati, letture e spunti sul sociale
 + Pillole di data literacy da e per il mondo del non profit

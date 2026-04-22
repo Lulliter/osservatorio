@@ -2,10 +2,67 @@
 title: "Dato di realtà"
 subtitle: "Blog dell'Osservatorio dei dai sociali - fondazione Cariparma"
 listing:
+  id: blog                    # → l'HTML risultante avrà id="listing-blog" (Quarto antepone "listing-")
   contents: posts
   sort: "date desc"
   type: default
   categories: true
+  filter-ui: true             # casella di ricerca testuale
+  sort-ui: true               # menu per ordinamento
+  fields: [date, title, author, categories, tipo]   # categories = i temi (pill standard Quarto, cliccabili)
+  field-display-names:
+    tipo: "Tipo"
   feed: true
 page-layout: full
 ---
+
+---
+title: "Long term care, status e prospettive"
+tipo: Aggiornamenti                                   
+categories: [anziani, sanità, integrazione socio-sanitaria] 
+fonti: 6 maggio ( osservatorio del Long term care a MI ) / Anna Mori su badanti e RSA
+---
+
+
+---
+title: "Case di comunità come laboratorio di integrazione socio-sanitaria"
+tipo: prospettive                                   
+categories: [sanità, integrazione socio-sanitaria] 
+fonti: F. sussidiarietà, Ancescao, 
+---
+
+---
+title: "Localizzazione della fragilità"
+tipo: pillole di dati / geospatial                                   
+categories: [demografia, anziani soli, fragilità] 
+fonti: R-ER indice fragilità, Unione montana app, 
+---
+
+---
+title: "Denatalità e reddito"
+tipo: pillole di dati /                                    
+categories: [demografia, anziani soli, fragilità] 
+fonti: Consigliere delle fam numerose, Istat (Tommaso Vaghi UniBocc)
+---
+
+---
+title: "Immigrazione e lavoro"
+tipo: pillole di dati /                                    
+categories: [demografia, immigrati, nuove fragilità] 
+fonti: Demopolis, Istat (Tommaso Vaghi UniBocc), Inapp (Alessandro ChiozzoPlus)
+---
+
+---
+title: "Emigrazione e lavoro !!"
+tipo: pillole di dati /                                    
+categories: [demografia, emigrati, giovani, lavoro precario] 
+fonti: ???
+---
+
+
+
+
+## Persone da incontrare
+
+- Fabio Landini, Economia Applicata - Uni PR 
+- Anna Mori, ??? - Uni Mi 

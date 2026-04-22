@@ -1,0 +1,19 @@
+---
+title: "Blog # 2 - test"
+author: "Luisa M. Mimmi"
+date: "2026-04-19"
+tipo: PLACEHOLDER_TIPO1                                  # un solo tipo articolo (es: report, news, ...)
+categories: [PLACEHOLDER_TEMA_1, PLACEHOLDER_TEMA_3]    # i temi → pill cliccabili standard Quarto + filtro sidebar
+---
+
+::: {.post-tipo-badge}
+Tipo: {{< meta tipo >}}
+:::
+
+I contenuti attesi di questo spazio:
+
++ Dati, letture e spunti sul sociale
++ Pillole di data literacy da e per il mondo del non profit
++ Leggere il presente attraverso i dati
++ Spunti e domande dai dati sociali
++ Dati e domande sul mondo che ci circonda

@@ -77,25 +77,23 @@ slide_table <- function(name, tight = FALSE, ...) {
 
 4. Aggiornare su ==produzione scientifica rilevante== e gestire interlocuzioni con studiosi e operatori 
 
-[5.] _Promuovere una cultura dei dati [aperti!] e contribuire all'ottimizzazione dei sistemi informativi_
+`[5.]` ==Promuovere una cultura dei dati [aperti!]== e contribuire all'ottimizzazione dei sistemi informativi
 ::: 
 
 ## 1. Curare l'`analisi dei fabbisogni del territorio` a supporto documenti di indirizzo
 
 ::: {style="font-size: 70%;"}
-- Validato gli ==indicatori rilevati da OpenImpact-Sinloc== nella analisi di contesto presentata il [TBD...]{style="background-color: #ffd500; padding: 0 4px;"} 
+- validato gli ==indicatori rilevati da OpenImpact-Sinloc== nella analisi di contesto presentata con il loro `Report Fase 1 (luglio)` 
   - approfondimenti _ad hoc_ (trend demografici, disabilità e non autosufficienza...)
 
-  - condotto indagine empirica sull'offerta di ==trasporto sociale== con interviste mirate a 7 enti
-
+- condotto indagine empirica sull'offerta di ==trasporto sociale== con interviste mirate a 7 enti
 
 <br>
 
 ### **Prossimi passi**:  
 
-  - identificare argomenti specifici su cui focalizzare attenzione [EXE...]{style="background-color: #ffd500; padding: 0 4px;"}
-  
-  <!-- ES le case di comunità come laboratorio di integrazione socio-sanitaria/ 
+- pianificare analisi su temi specifici, valutandone merito e tempistiche
+<!-- ES le case di comunità come laboratorio di integrazione socio-sanitaria/ 
       - localizzare la fragilita sul territorio 
         - gli anziani soli e dove sono?  
         - indice di fragilità
@@ -104,13 +102,8 @@ slide_table <- function(name, tight = FALSE, ...) {
       - gli invisibili
       - il nesso tra # figli e povertà
   -->
- 
-- avviare un =="blog" dell'Osservatorio== articolato in rubriche tematiche:
-  + `Pillole di dati` — mini visualizzazioni e focus su dati territoriali
-  + `Cultura del dato` — metodi e strumenti per analizzare i dati
-  + `Interviste` — punti di vista di analisti dei dati sociali
-  + `Aggiornamenti` — novità sui dataset monitorati 
-  
+- avviare `in via sperimentale` un blog dell'Osservatorio articolato in rubriche tematiche:
+  + `Pillole di dati` (e.g. visualizzazioni interessanti); `Cultura del dato` (e.g. metodi e strumenti); `Prospettive` (e.g. interviste e riflessione di analisti); `Aggiornamenti` (novità sui dataset monitorati)  
 :::   
   
 ::: {.notes}
@@ -124,12 +117,12 @@ slide_table <- function(name, tight = FALSE, ...) {
  
 <br>
 
-### **Prossimi passi**:  
-  - identificare con Area Erogativa focus tematici di anno in anno  [EXE...]{style="background-color: #ffd500; padding: 0 4px;"} 
-  - ricognizione sistematica di vari output analitici (e.g. studi, convegni, ecc.):
-    - relazioni degli Enti 
-    - documenti preliminari degli Advisor [EXE...]{style="background-color: #ffd500; padding: 0 4px;"}
-  
+### **Prossimi passi** (in dialogo con Area Erogativa):  
+- identificare aspetti specifici del territorio da evidenziare di anno in anno
+- avviare una ricognizione sistematica degli `output analitici` dei progetti finanziati (studi, convegni, ecc.):
+  - relazioni degli Enti
+  - documenti preliminari degli Advisor  
+
 <!-- non basta erogare risorse: occorre rafforzare chi le riceve affinché possa operare in modo sempre più efficace e autonomo  -->
 
 :::  
@@ -151,10 +144,11 @@ slide_table <- function(name, tight = FALSE, ...) {
 
 <br>
 
-### **Prossimi passi**:  
+### **Prossimi passi** (in dialogo con OIS):  
+
 + gestire alcune criticità sulla valutazione dei Progetti Propri
-+ validare i risultati ottenuti dai questionari agli enti 
-+ fornire feedback lato utente sul loro sistema informativo (`Impact Manager`)  
++ validare i risultati ottenuti dai questionari agli enti
++ fornire feedback lato utente sul loro sistema informativo (`Impact Manager`) 
 
  
 
@@ -183,14 +177,15 @@ DONA:
 ## 4. Monitorare la `produzione scientifica rilevante` e gestire interlocuzioni con studiosi e operatori 
 ::: {style="font-size: 70%;"}
 + Avviato ==dialogo con enti di ricerca==, Osservatori di altre fondazioni, e operatori rilevanti su:
-  + disponibilità/aggiornamento di dati specifici (e.g. R-ER Statistica, AICCON, Secondo Welfare, ... )
+  + accesso e/o aggiornamento di dati specifici (e.g. R-ER Statistica, AICCON, Secondo Welfare...)
   + software e strumenti per la raccolta e l'analisi dei dati per il Terzo Settore (e.g. Techsoup, Posit, LimeSurvey, ...)
   
 <br>
 
 ### **Prossimi passi**:  
 
-- presidiare eventi rilevanti e curarne restituzione/divulgazione all'interno della fondazione
+- presidiare `eventi rilevanti` (convegni, seminari, presentazioni di rapporti) e curarne la restituzione all'interno della fondazione
+- consolidare alcune `collaborazioni stabili` con interlocutori-chiave su temi prioritari
 
 <!-- 6 maggio - 8 Osservatorio del LTC in Bocconi  -->
 
@@ -199,22 +194,63 @@ DONA:
 ... 
 :::
  
-## [5.] _Promuovere una cultura dei dati [aperti!] e contribuire all'ottimizzazione dei sistemi informativi_
+## `[5.]` Promuovere una cultura dei dati [aperti!] e contribuire all'ottimizzazione dei sistemi informativi
 ::: {style="font-size: 70%;"}
-+ Impostati strumenti di lavoro per produrre ==analisi (più possibile) automatizzate, riproducibili== (R, Quarto)
++ Impostati strumenti di lavoro per produrre ==analisi (più possibile) automatizzate, riproducibili== (`R`, `Quarto`, `LimeSurvey`)
 + Creati mini-siti tematici per la condivisione dei lavori dell'Osservatorio con i colleghi via intranet [https://analisidati.fondazionecrp.it/](https://analisidati.fondazionecrp.it/)^[ Questo link si apre solo dentro il dominio DFCRPR]
 
 <br>
 
 ### **Prossimi passi**:  
-+ Promuovere una cultura dei dati aperti e accessibili e di metodi di analisi riproducibili
-+ Preparare seminari, materiali formativi, e collaborare con UniPR a questo fine
-+ Contribuire a vagliare la disponibilità e opportunità di strumenti di IA
++ preparare seminari e materiali formativi (idealmentem in collaborazione con UniPR)
++ vagliare la disponibilità e l'opportunità di strumenti di IA (specifici per analisi dati)
 :::
 
 ::: {.notes}
 ... 
 :::
+
+## Condivisione _interna_ di progetti analitici e spunti vari
+
+![](../assets/meta_sito.png){width=80%}
+
+::: aside
+🔒 Accessibile solo da rete aziendale
+:::
+
+
+## Analisi e output digitali prodotti dall'Osservatorio
+
+::: {style="font-size: 75%;"}
++ Repository con vari progetti Osservatorio: 
+  + `sito` web dedicato [https://analisidati.fondazionecrp.it/](https://analisidati.fondazionecrp.it/) 🔒
+
++ Analisi del contesto territoriale organizzata per temi
+  + `sito` web dedicato [https://lulliter.github.io/parma-dash/](https://lulliter.github.io/parma-dash/) 🌐
+
++ Input (grafici e tabelle) per Bilancio di Missione 2025
+  + `sito` web dedicato [https://analisi01.fondazionecrp.it/](https://analisi01.fondazionecrp.it/) 🔒
+
++ Indagine sul trasporto sociale 
+
+  + `presentazione PDF` ad uso interno disponibile
+  + `sito` web dedicato [https://analisi02.fondazionecrp.it/home.html](https://analisi02.fondazionecrp.it/home.html) 🔒
+
+:::
+
+::: aside
+🔒 link protetto (dominio DFCRPR) — 🌐 link aperto (solo dati pubblici)
+:::
+
+
+
+
+<!-- ![](../assets/trasp_tab.png){width=90%} -->
+
+<!-- ::: aside -->
+<!-- [Disponibile analisi appena ultimata] -->
+<!-- ::: -->
+
  
 ## Per discussione con il CdA
 
@@ -223,40 +259,28 @@ DONA:
 
 <br> -->
 
-Possibili ambiti di confronto per alcune scelte di ==indirizzo==:
+<br>
+Possibili ambiti di confronto per alcune scelte di indirizzo:
+<br>
 
-+ **Dare visibilità al lavoro dell'Osservatorio** — con `output modulari` (blog, rubriche, mini-analisi), affiancati ad alcuni `studi di ampio respiro` a cadenza più lunga
++ ==COSA?== <br>**Profondità vs ampiezza** — su quali temi investire in ricerche approfondite (anche con `raccolta di dati ad hoc`), in base a criteri di rilevanza strategica e radicamento territoriale
+  <!-- - es. indagine sul trasporto sociale -->
+<br><br>
 
-+ **Profondità vs ampiezza** — discernere temi strategicamente rilevanti per cui valga la pena pianificare ricerche approfondite (anche con `raccolta di dati sperimentali` _ad hoc_)
-  - e.g. indagine sul trasporto sociale 
++ ==CHI?== <br>**Conduzione vs coordinamento** — quanto produrre analisi originali _in house_ e quanto invece curare/commissionare contributi di terzi (università, enti di ricerca, terzo settore)
+  <!-- - es. interazione con OIS -->
+<br><br>
 
-+ **In-house vs commissionato** — criteri per distinguere le analisi da tenere `in house` (dove abbiamo ==vantaggio== competitivo, e.g. il rapporto diretto con gli Enti) da quelle da commissionare a terzi
++ ==COME?== <br>**Visibilità del lavoro dell'Osservatorio** — equilibrio fra `output modulari` ad alta frequenza (blog, rubriche, mini-analisi) e `studi di ampio respiro` a cadenza più lunga
 
-:::
-
-
-# Allegati
-
-
-## Condivisione _interna_ di progetti analitici e spunti vari
-
-![](../assets/meta_sito.png){width=80%}
-
-::: aside
-[Accessibile solo da rete aziendale]
-:::
-
-## Indagine sul trasporto sociale 
-
-![](../assets/trasp_tab.png){width=90%}
-
-::: aside
-[Disponibile analisi appena ultimata]
 :::
 
 
 
 ## Quarto - HIDDEN {visibility="hidden"}
+
+[EXE...]{style="background-color: #ffd500; padding: 0 4px;"} 
+
 
 - Footnote ^[the footnote text]
 - aside
