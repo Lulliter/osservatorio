@@ -24,8 +24,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: questions.qmd
-        text: spunti...
       - href: posts.qmd
         text: Dato di realtà
       # - href: Presentazione
@@ -51,6 +49,6 @@ tbl-cap-location: top
 # --- Important bc Pandoc’s default resource-path is the directory of each input file
 # Let pages see files in the project root (.) and the bib folder explicitly
 resource-path: [".", "bib"]
-#bibliography: bib/CRP_dash.bib
+bibliography: bib/CRP_bil_miss.bib
 
 

@@ -1,0 +1,60 @@
+---
+title: "Blog Ideas"
+
+suppress-bibliography: false
+---
+
+[ 🔒 PRIVATO 🔒 ]
+
+
+# Tipologie di contributi
+
+- `Pillole di dati` (e.g. visualizzazioni interessanti); 
+- `Cultura del dato` (e.g. metodi e strumenti);
+- `Prospettive` (e.g. interviste e riflessione di analisti); 
+- `Aggiornamenti` (novità sui dataset monitorati)
+
+# Forthcoming 
+
+
++ Case di comunità come laboratorio di integrazione servizi socio-sanitari? 
+  +  **TIPO** : `Pillole di dati` 
+  
+> Fonti: [@fondazioneperlasussidiarietaVersoQualeModello2025] / Anna Mori -UniMI  (citato da Tommaso Vaghi il 14 aprile evento "Invisibili")
+
+
++ localizzare la fragilita sul territorio
+  - gli anziani soli e dove sono?
+  - indice di fragilità
+  +  **TIPO** : `Pillole di dati` 
+  + **Fonti**: [@re-rstatisticaPotenzialeFragilitaDemografica2025]  
+<br>
+
++ localizzare la fragilita sul territorio
+  - indice di rugosità
+  + **TIPO** : `Pillole di dati` | `Prospettive`
+  + **Fonti**: Forum Disuguaglianze  
+<br>
+
++ il nesso tra # figli e povertà
+  +  **TIPO** : `Pillole di dati` | `Prospettive` 
+  + **Fonti.** IStat, consigliere tizio famiglie numerose  
+<br>
+
++ la popolazione immigrata & il lavoro
+  +  **TIPO** : `Pillole di dati` 
+  + **Fonti**: Tommaso Vaghi, Istat (Tommaso Vaghi UniBocc) - (Conferenza gli invisibili)  
+<br>
+
+
++ analisi riproducibile dei dati 
+  +  **TIPO** : `Cultura del dato` 
+  + **Fonti**: Lulas
+<br>  
+
+
+
+## Persone da incontrare
+
+- Fabio Landini, Economia Applicata - Uni PR 
+- Anna Mori, ??? - Uni Mi 

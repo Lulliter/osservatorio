@@ -1,19 +1,22 @@
 ---
-title: "Blog # 1 - test"
+title: "L'integrazione tra assistenza ospedaliera e territoriale, sociale e sanitaria"
 author: "Luisa M. Mimmi"
 date: "2026-04-19"
-tipo: PLACEHOLDER_TIPO                                  # un solo tipo articolo (es: report, news, ...)
-categories: [PLACEHOLDER_TEMA_1, PLACEHOLDER_TEMA_2]    # i temi → pill cliccabili standard Quarto + filtro sidebar
+tipo: Prospettive                                  # un solo tipo articolo (es: report, news, ...)
+categories: [LTC, anziani, assistenza socio-sanitaria]    # i temi → pill cliccabili standard Quarto + filtro sidebar
 ---
 
 ::: {.post-tipo-badge}
 Tipo: {{< meta tipo >}}
 :::
 
-I contenuti attesi di questo spazio:
 
-+ Dati, letture e spunti sul sociale
-+ Pillole di data literacy da e per il mondo del non profit
-+ Leggere il presente attraverso i dati
-+ Spunti e domande dai dati sociali
-+ Dati e domande sul mondo che ci circonda
+> La riorganizzazione e l’**integrazione tra assistenza ospedaliera e territoriale, sociale e sanitaria**, costituisce oggi uno degli obiettivi prioritari di politica sanitaria verso cui i sistemi sanitari più avanzati devono orientarsi per dare risposte concrete ai nuovi bisogni di salute, che non si limitano più solo a una domanda di salute, bensì contemplano un processo integrato di accompagnamento della vita in tutte le sue fasi e stati. [@Rapportosussidiarieta7682425light]
+
+- La programmazione/erogazione territoriale segue l'accelerazione di invecchiamento (= un carico di malattia caratterizzato dalla prevalenza delle patologie croniche e degenerative, tipiche delle popolazioni anziane)?
+
+- Le `"Case della Salute"` (peculiarità della regione ER, già nel 2020 erano 124) o `"Case della Comunità"` (al 2026 programmate 185 in ER) possono essere un inizio di risposta alla necessità di integrare i servizi e la presa in carico? 
+   - passaggio da `"Case della Salute"` a `"Case della Comunità"` (come previsto dal PNRR) che, come prospettata nel modello sanitario regionale, diventa il punto di sintesi erogativo del complesso delle prestazioni e delle attività offerte da tutte le strutture che operano a favore della salute della collettività di riferimento nell’ambito territoriale di competenza, sia erogati direttamente dal servizio sanitario regionale, sia da altri soggetti pubblici territoriali (enti locali, privati accreditati, farmacie dei servizi, reti sociali e di volontariato). 
+
+  - Nella `Deliberazione di Giunta regionale 17 luglio 2023, n. 12061`, che declina il `d.m. 77/2022` I principi fondanti di tale riforma sono: il **principio di prossimità**; il **principio di integrazione socio-sanitaria**, attraverso specifici accordi con i Comuni e l’Unione di Comuni; il **principio di continuità assistenziale**, con percorsi strutturati che collegano l’assistenza ospedaliera, quella territoriale e quella domiciliare  
+

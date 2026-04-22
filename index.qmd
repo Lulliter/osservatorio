@@ -1,23 +1,9 @@
 ---
 title: ""
 subtitle: "Fondazione Cariparma"
+bibliography: bib/CRP_bil_miss.bib
 ---
 
 ⚠️ in construzione ⚠️ 
 
 Sito interno per condivisione di dati e spunti di ricerca da pubblicare nel blog dell'Osservatorio...
-
-
-# Forthcoming 
-
-
-  
-  <!-- ES le case di comunità come laboratorio di integrazione socio-sanitaria/ 
-      - localizzare la fragilita sul territorio 
-        - gli anziani soli e dove sono?  
-        - indice di fragilità
-        - indice di rugosità
-      - la popolazione immigrata & il lavoro 
-      - gli invisibili
-      - il nesso tra # figli e povertà
-  -->
