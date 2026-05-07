@@ -1,0 +1,42 @@
+---
+title: "Health risk score - progetto Bussola"
+author: "Luisa M. Mimmi"
+date: "2026-04-19"
+draft: TRUE
+tipo: Spot                                  # un solo tipo articolo (es: report, news, ...)
+categories: [salute pubblica, pazienti alto rischio, medicina d'iniziativa]    # i temi → pill cliccabili standard Quarto + filtro sidebar
+#bibliography: bib/CRP_osservatorio.bib
+---
+
+::: {.post-tipo-badge}
+Tipo: {{< meta tipo >}}
+:::
+
+
+  + **TIPO** : `Spot` 
+  + **Fonti**: Azienda OSpedaliero-Universitaria di Parma 
+  + **Persone**: Matteo Garofano (PM), [Vittorio Maio (Epidemiologo)](https://www.researchgate.net/profile/Vittorio-Maio)
+  
+  
+  
+# Uno sguardo sul progetto 
+
+Proogetto `2024.0328`:  **BuSSola - Conoscere i bisogni di salute per orientare e programmare i servizi e gli interventi sanitari e sociali: Sviluppo e validazione di strumenti per la stratificazione della popolazione**
+
+
+## Articolo CAstagna et al. 
+
+
+> By prioritizing risk levels and tailoring interventions accordingly, healthcare systems and providers can allocate resources more effectively, reduce acute care episodes, and enhance patient outcomes. [@castagnaStratifyingPopulationBased2025]
+
+> aims to establish a data-driven framework that aligns with national and regional health reforms, particularly in addressing the needs of high-risk, multi-comorbid, and elderly populations served by PCPs in the Parma LHA.
+
+
+PANEL: The panel included PCPs (n=10) (Primary CAre Physicians) internal medicin (n=4), geriatric medicine (n=1), pulmonology (n=1), emergency medicine (n=1), infectious disease (n=1), cardiology (n=2), and psychiatry (n=1); nurses (n=2); and a pharmacist (n=1).
+
+
+METHOD: 1) _Nominal group technique_ (facilita interazione di gruppi)
+
+tools for risk stratification and comorbidity assessment, such as the `Charlson Comorbidity Index` [12], the `LACE Index` [13], and `validated prognostic models` for community-dwelling older adults [14–16], as well as `instruments` identifying older individuals at higher risk of adverse drug outcomes or death [17, 18].
+
+2) multi-round modified Delphi method

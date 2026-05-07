@@ -1,17 +1,38 @@
 [
   {
-    "objectID": "posts/02_blog/index.html",
-    "href": "posts/02_blog/index.html",
-    "title": "Blog # 2 - test",
+    "objectID": "posts/01_oss_LTC/index.html",
+    "href": "posts/01_oss_LTC/index.html",
+    "title": "Presentazione dell’8° Rapporto Osservatorio Long Term Care",
     "section": "",
-    "text": "Tipo: PLACEHOLDER_TIPO1\n\nI contenuti attesi di questo spazio:\n\nDati, letture e spunti sul sociale\nPillole di data literacy da e per il mondo del non profit\nLeggere il presente attraverso i dati\nSpunti e domande dai dati sociali\nDati e domande sul mondo che ci circonda"
+    "text": "Tipo: Aggiornamenti"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Dato di realtà",
-    "section": "",
-    "text": "Ordinare per\n      Predefinito\n      \n        Titolo\n      \n      \n        Data - Meno recente\n      \n      \n        Data - Più recente\n      \n      \n        Autore/Autrice\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nL’integrazione tra assistenza ospedaliera e territoriale, sociale e sanitaria\n\n\n\nLTC\n\nanziani\n\nassistenza socio-sanitaria\n\n\n\n\n\n\n19 apr 2026\n\n\nLuisa M. Mimmi\n\n\nProspettive\n\n\n\n\n\n\n\nBlog # 2 - test\n\n\n\nPLACEHOLDER_TEMA_1\n\nPLACEHOLDER_TEMA_3\n\n\n\n\n\n\n19 apr 2026\n\n\nLuisa M. Mimmi\n\n\nPLACEHOLDER_TIPO1\n\n\n\n\n\nNessun risultato"
+    "objectID": "posts/01_oss_LTC/index.html#il-contesto",
+    "href": "posts/01_oss_LTC/index.html#il-contesto",
+    "title": "Presentazione dell’8° Rapporto Osservatorio Long Term Care",
+    "section": "Il contesto",
+    "text": "Il contesto\nIl 6 maggio 2026, l’Osservatorio Long Term Care (OLTC) del CERGAS (Centro di Ricerche sulla Gestione dell’Assistenza Sanitaria e Sociale) ha presentato il suo 8° Rapporto alla SDA Bocconi, alla presenza di vari attori coinvolti: istituzioni ed erogatori di servizi, operatori del terzo settore – molti dei quali intervistati per lo studio.\nI lavori sono iniziati dalla fotografia del settore LTC in Italia, che riflette alcuni trend noti della domanda:\n\nl’invecchiamento della popolazione, con conseguente aumento di persone anziane non autosufficienti oltre 4 milioni di anziani non autosufficienti in Italia ovvero il 28,4% // ## in Emilia Romagna\nl’indebolimento delle reti familiari con il forte rischio di isolamento\ni vincoli strutturali delle risorse pubbliche, sia economiche che professionali – la spesa pubblica per la Long Term Care è scesa all’1,18% del PIL (dal 1,43% nel 2020)\n\nSi é evidenziato per altro che il bisogno è molto diverso per intensità e caratteristiche: “non autosufficienza” può indicare molte cose e richiedere tipi di assistenza diversi. Molte le questioni sul tavolo:\n\ncome favorire il cosiddetto “aging in place” più a lungo possibile?\nquali soluzioni esplorare nello spazio tra i due estremi: vivere soli in condizioni di fragilità e il trasferimento in RSA?\ncome ripensare un quadro normativo che favorisca l’integrazione dei sistemi lasciando spazio alla necessaria sperimentazione locale?\n\nUn fabbisogno crescente di fronte al quale la risposta del sistema pubblico è sempre più disallineata, e implicitamente selettiva: al 2023 gli utenti in carico con servizi ai socio-sanitari erano circa 1,5 milioni degli oltre 4 milioni. Quindi il tasso di copertura del bisogno raggiunge solo il 39%, in particolare:\n\nServizio residenziale (RSA) per il 7,6% dei casi\nServizio semiresidenziale (Centri diurni) per lo 0,6% dei casi\nServizio domiciliare (ADI, SAD, Centri diurni) per 30,6% dei casi (ovvero il più capillare)\n\nEvidentemente, a fronte della grossa fetta di bisogno che resta non coperto, le famiglie si organizzano “arrangiandosi”: per il 2024 si stima oltre 1 milione di badanti (regolari e irregolari).\nPer altro, la riforma avviata nel 2022, ha visto la pubblicazione del D.Lgs. n° 29/2024 (“Riforma Anziani”), ma il “Decreto Milleproroghe” del 2025 ha posticipato al 2027/2028 l’implementazione della riforma, tra cui l’emanazione dei decreti necessari per definire PUA (punti unici di accesso), che avrebbero sede nelle case delle acomunità, e i criteri del PAI (progetto assistenziale individualizzato)"
+  },
+  {
+    "objectID": "posts/01_oss_LTC/index.html#casi-di-studio",
+    "href": "posts/01_oss_LTC/index.html#casi-di-studio",
+    "title": "Presentazione dell’8° Rapporto Osservatorio Long Term Care",
+    "section": "Casi di studio",
+    "text": "Casi di studio\nA seguire, la presentazione e il dibattito si sono centrati su alcune soluzioni innovative collocate in 2 ambiti specifici: 1) modelli di abitare per l’invecchiamento e 2) delle piattaforme tecnologiche innovative. I casi di studio includono modelli come: “demetia vilalges”, residenze di co-housing intergenerazionale, infermiere di quartiere, piattaforme per il case worker online.\nPer ciascuno dei modelli ilustrati, sono stati evidenziati punti di forza e criticità, inquadramento e sostenibilità economica nel contesto assistenziale specifico.\nQui verranno le slide LINK\nDalla discussione dei casi e nelle conclusioni sono emersi alcuni importanti spunti di lavoro:\n\nC’è grande spazio per sperimentare risposte progressive - anche creative - a un bisogno crescente ma estremamente multiforme. Anche i casi di successo sono frutto di sperimentazione e processi di trial & error\nLa relazione e la comunità sono fattori fondamentali - lo stesso anziano non-autosufficiente è protagonista della risposta"
+  },
+  {
+    "objectID": "posts/01_oss_LTC/index.html#fonti",
+    "href": "posts/01_oss_LTC/index.html#fonti",
+    "title": "Presentazione dell’8° Rapporto Osservatorio Long Term Care",
+    "section": "Fonti",
+    "text": "Fonti\nManca un sistema informativo integrato (sociale + sanitario) e possibile duplicazione, i.e. stessi utenti contati varie volte se ricevono servizi diversi\n\nCruscotto di Monitoraggio AGENAS\nOfferta di assistenza\n\nAnnuario statistico del SSN (ult. disp. 2023)\nrilevazione ISTAT\n\nsui presidi socio-assistenziali (ult. disp. 2023)\ndati spesa sociale dei comuni\nospiti dei presidi socio-assistenziali\n\n\n[Badantato] Inps dati sul lavoro domestico, Osservatorio Domina\n[Spesa pubblica su  LTC] Ragioneria dello Stato, report annuale “Le tendenze del medio-lungo periodo del sistema pensionistico e socio-sanitario”"
+  },
+  {
+    "objectID": "posts/01_oss_LTC/index.html#riferimenti-bibliografici",
+    "href": "posts/01_oss_LTC/index.html#riferimenti-bibliografici",
+    "title": "Presentazione dell’8° Rapporto Osservatorio Long Term Care",
+    "section": "Riferimenti bibliografici",
+    "text": "Riferimenti bibliografici"
   },
   {
     "objectID": "index.html",
@@ -21,10 +42,10 @@
     "text": "⚠️ in construzione ⚠️\nSito interno per condivisione di dati e spunti di ricerca da pubblicare nel blog dell’Osservatorio…"
   },
   {
-    "objectID": "posts/01_blog/index.html",
-    "href": "posts/01_blog/index.html",
-    "title": "L’integrazione tra assistenza ospedaliera e territoriale, sociale e sanitaria",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Dato di realtà",
     "section": "",
-    "text": "Tipo: Prospettive\n\n\nLa riorganizzazione e l’integrazione tra assistenza ospedaliera e territoriale, sociale e sanitaria, costituisce oggi uno degli obiettivi prioritari di politica sanitaria verso cui i sistemi sanitari più avanzati devono orientarsi per dare risposte concrete ai nuovi bisogni di salute, che non si limitano più solo a una domanda di salute, bensì contemplano un processo integrato di accompagnamento della vita in tutte le sue fasi e stati. (Fondazione per la Sussidiarietà 19 febb 2026)\n\n\nLa programmazione/erogazione territoriale segue l’accelerazione di invecchiamento (= un carico di malattia caratterizzato dalla prevalenza delle patologie croniche e degenerative, tipiche delle popolazioni anziane)?\nLe \"Case della Salute\" (peculiarità della regione ER, già nel 2020 erano 124) o \"Case della Comunità\" (al 2026 programmate 185 in ER) possono essere un inizio di risposta alla necessità di integrare i servizi e la presa in carico?\n\npassaggio da \"Case della Salute\" a \"Case della Comunità\" (come previsto dal PNRR) che, come prospettata nel modello sanitario regionale, diventa il punto di sintesi erogativo del complesso delle prestazioni e delle attività offerte da tutte le strutture che operano a favore della salute della collettività di riferimento nell’ambito territoriale di competenza, sia erogati direttamente dal servizio sanitario regionale, sia da altri soggetti pubblici territoriali (enti locali, privati accreditati, farmacie dei servizi, reti sociali e di volontariato).\nNella Deliberazione di Giunta regionale 17 luglio 2023, n. 12061, che declina il d.m. 77/2022 I principi fondanti di tale riforma sono: il principio di prossimità; il principio di integrazione socio-sanitaria, attraverso specifici accordi con i Comuni e l’Unione di Comuni; il principio di continuità assistenziale, con percorsi strutturati che collegano l’assistenza ospedaliera, quella territoriale e quella domiciliare\n\n\n\n\n\n\nReferenze\n\nFondazione per la Sussidiarietà. 19 febb 2026. «Sussidiarieta e... Salute». Fondazione Sussidiarietà. https://www.sussidiarieta.net/files/contenuti/rapporto-sussidiarieta-768-24-25-light.pdf."
+    "text": "Ordinare per\n      Predefinito\n      \n        Titolo\n      \n      \n        Data - Meno recente\n      \n      \n        Data - Più recente\n      \n      \n        Autore/Autrice\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nPresentazione dell’8° Rapporto Osservatorio Long Term Care\n\n\n\nLTC\n\nanziani\n\nassistenza socio-sanitaria\n\nnon autosufficienza\n\n\n\n\n\n\n7 mag 2026\n\n\nLuisa M. Mimmi\n\n\nAggiornamenti\n\n\n\n\n\nNessun risultato"
   }
 ]

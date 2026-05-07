@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lulliter.github.io/osservatorio/posts/02_blog/index.html</loc>
-    <lastmod>2026-04-22T08:15:02.821Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lulliter.github.io/osservatorio/posts.html</loc>
-    <lastmod>2026-04-22T15:29:53.804Z</lastmod>
+    <loc>https://lulliter.github.io/osservatorio/posts/01_oss_LTC/index.html</loc>
+    <lastmod>2026-05-07T15:02:38.266Z</lastmod>
   </url>
   <url>
     <loc>https://lulliter.github.io/osservatorio/index.html</loc>
-    <lastmod>2026-04-22T15:35:48.134Z</lastmod>
+    <lastmod>2026-04-24T13:40:43.435Z</lastmod>
   </url>
   <url>
-    <loc>https://lulliter.github.io/osservatorio/posts/01_blog/index.html</loc>
-    <lastmod>2026-04-22T15:37:18.701Z</lastmod>
+    <loc>https://lulliter.github.io/osservatorio/posts.html</loc>
+    <lastmod>2026-05-07T07:46:55.780Z</lastmod>
   </url>
 </urlset>

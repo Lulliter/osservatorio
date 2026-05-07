@@ -1,6 +1,6 @@
 ---
 title: "Blog Ideas"
-
+bibliography: bib/CRP_osservatorio.bib
 suppress-bibliography: false
 ---
 
@@ -10,18 +10,39 @@ suppress-bibliography: false
 # Tipologie di contributi
 
 - `Pillole di dati` (e.g. visualizzazioni interessanti); 
-- `Cultura del dato` (e.g. metodi e strumenti);
+- `Cultura del dato` (e.g. sintassi, metodi e strumenti di statistica, analisi dati);
 - `Prospettive` (e.g. interviste e riflessione di analisti); 
 - `Aggiornamenti` (novità sui dataset monitorati)
+- `Spot su progetti finanziati` (puntare l'attenzione su progetti di ricerca da noi finanziati)
+
 
 # Forthcoming 
 
+## spot altro
++ CSV Emilia ODV gestisce un sistema informativo su bisogni e servizi con governance partecipativa, nell’ambito del bando “Welfare Connesso 2024”.
 
+  
+<br> 
+
+## case comunità / epidemiologia
 + Case di comunità come laboratorio di integrazione servizi socio-sanitari? 
-  +  **TIPO** : `Pillole di dati` 
+  +  **TIPO** : `Pillole di dati`
   
 > Fonti: [@fondazioneperlasussidiarietaVersoQualeModello2025] / Anna Mori -UniMI  (citato da Tommaso Vaghi il 14 aprile evento "Invisibili")
 
+  + Proogetto 2025.0241: realizzazione del progetto 'Ripensare i servizi di welfare locale: mappatura partecipata per la progettazione delle **Case della Comunità**'
+  +  **TIPO** : `Spot` 
+  + **Fonti**: Marco Ferretti, DIPARTIMENTO DI SCIENZE ECONOMICHE E AZIENDALI Università degli Studi di Parma
+  
+<br>  
+
++ Proogetto 2024.0328:  BuSSola - Conoscere i bisogni di salute per orientare e programmare i servizi e gli interventi sanitari e sociali: Sviluppo e validazione di strumenti per la stratificazione della popolazione
+  + **TIPO** : `Spot` 
+  + **Fonti**: Azienda OSpedaliero-Universitaria di Parma 
+  + **Persone**: Matteo Garofano (PM), [Vittorio Maio (Epidemiologo)](https://www.researchgate.net/profile/Vittorio-Maio)
+  
+  
+## geoloc fragilità
 
 + localizzare la fragilita sul territorio
   - gli anziani soli e dove sono?
@@ -41,15 +62,15 @@ suppress-bibliography: false
   + **Fonti.** IStat, consigliere tizio famiglie numerose  
 <br>
 
+## immigrati
 + la popolazione immigrata & il lavoro
   +  **TIPO** : `Pillole di dati` 
   + **Fonti**: Tommaso Vaghi, Istat (Tommaso Vaghi UniBocc) - (Conferenza gli invisibili)  
 <br>
 
-
-+ analisi riproducibile dei dati 
-  +  **TIPO** : `Cultura del dato` 
-  + **Fonti**: Lulas
++ Progetto 2025.0224 CIAC – Centro Immigrazione Asilo e Cooperazione Internazionale (progetto Cruscotto dell’integrazione dei richiedenti asilo e rifugiati)
+  +  **TIPO** : `Spot` 
+ 
 <br>  
 
 
@@ -58,3 +79,4 @@ suppress-bibliography: false
 
 - Fabio Landini, Economia Applicata - Uni PR 
 - Anna Mori, ??? - Uni Mi 
+- MARIUCCIA ROSSINI, Presidente, Silver Economy Network e Over [Osservatorio LTC del Cercas Bocconi]

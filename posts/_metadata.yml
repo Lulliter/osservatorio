@@ -1,2 +1,7 @@
 # Defaults per tutti i post del blog
 freeze: true
+filters:
+  - ../R/red-text.lua
+
+# 
+# usare con [TESTO ...]{style="color: red;"}

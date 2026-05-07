@@ -1,6 +1,6 @@
 ---
-title: "Dato di realtà"
-subtitle: "Blog dell'Osservatorio dei dai sociali - fondazione Cariparma"
+title: "_Dato di realtà_"
+subtitle: "Blog dell'Osservatorio dei dai sociali - Fondazione Cariparma"
 listing:
   id: blog                    # → l'HTML risultante avrà id="listing-blog" (Quarto antepone "listing-")
   contents: posts
@@ -15,3 +15,6 @@ listing:
   feed: true
 page-layout: full
 ---
+
+
+<!-- Vedi input e draft ideas in _notes_blog_ideas.qmd  -->
