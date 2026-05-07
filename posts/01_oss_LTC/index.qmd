@@ -5,6 +5,8 @@ author: "Luisa M. Mimmi"
 date: "2026-05-07"
 tipo: Aggiornamenti                                  # un solo tipo articolo (es: report, news, ...)
 categories: [LTC, anziani, assistenza socio-sanitaria, non autosufficienza]    # i temi → pill cliccabili standard Quarto + filtro sidebar
+resources:
+  - agenda_cergas_6mag2026.pdf
 ---
 
 ::: {.post-tipo-badge}
@@ -21,37 +23,37 @@ I lavori sono iniziati dalla fotografia del settore LTC in Italia, che riflette 
 2. l'indebolimento delle reti familiari con il forte rischio di isolamento
 3. i vincoli strutturali delle risorse pubbliche, sia economiche che professionali -- la spesa pubblica per la Long Term Care è scesa all’1,18% del PIL (dal 1,43% nel 2020)
 
-Si é evidenziato per altro che il bisogno è molto diverso per intensità e caratteristiche: _"non autosufficienza"_ può indicare molte cose e richiedere tipi di assistenza diversi. Molte le questioni sul tavolo:
+Si è evidenziato per altro che il bisogno è molto diverso per intensità e caratteristiche: _"non autosufficienza"_ può indicare molte cose e richiedere tipi di assistenza diversi. Molte le questioni sul tavolo:
 
 - come favorire il cosiddetto _"aging in place"_ più a lungo possibile?
 - quali soluzioni esplorare nello spazio tra i due estremi: vivere soli in condizioni di fragilità e il trasferimento in RSA?
 - come ripensare un quadro normativo che favorisca l'integrazione dei sistemi lasciando spazio alla necessaria sperimentazione locale? 
 
-Un fabbisogno crescente di fronte al quale la risposta del sistema pubblico è sempre più disallineata, e _implicitamente_ selettiva: al 2023 gli utenti in carico con servizi ai socio-sanitari erano circa 1,5 milioni degli oltre 4 milioni. Quindi **il tasso di copertura del bisogno raggiunge solo il 39%**, in particolare:
+Un fabbisogno crescente di fronte al quale la risposta del sistema pubblico è sempre più disallineata, e _implicitamente_ selettiva: al 2023 gli utenti in carico ai servizi socio-sanitari erano circa 1,5 milioni degli oltre 4 milioni. Quindi **il tasso di copertura del bisogno raggiunge solo il 39%**, in particolare:
 
 - Servizio residenziale (RSA) per il 7,6% dei casi
 - Servizio semiresidenziale (Centri diurni) per lo 0,6% dei casi
-- Servizio domiciliare (ADI, SAD, Centri diurni) per 30,6% dei casi (ovvero il più capillare)
+- Servizio domiciliare (ADI, SAD) per il 30,6% dei casi (ovvero il più capillare)
 
 Evidentemente, a fronte della grossa fetta di bisogno che resta non coperto, le famiglie si organizzano "arrangiandosi": per il 2024 si stima **oltre 1 milione di badanti** (regolari e irregolari).
 
-Per altro, la riforma avviata nel 2022, ha visto la pubblicazione del D.Lgs. n° 29/2024 (_"Riforma Anziani"_), ma il _"Decreto Milleproroghe"_ del 2025 ha posticipato al 2027/2028 l'implementazione della riforma, tra cui l'emanazione dei decreti necessari per definire **PUA (punti unici di accesso)**, che avrebbero sede nelle case delle acomunità, e i criteri del **PAI (progetto assistenziale individualizzato)**
+Per altro, la riforma avviata nel 2022, ha visto la pubblicazione del D.Lgs. n° 29/2024 (_"Riforma Anziani"_), ma il _"Decreto Milleproroghe"_ del 2025 ha posticipato al 2027/2028 l'implementazione della riforma, tra cui l'emanazione dei decreti necessari per definire **PUA (punti unici di accesso)**, che avrebbero sede nelle case della comunità, e i criteri del **PAI (progetto assistenziale individualizzato)**.
 
 
 ## Casi di studio 
-A seguire, la presentazione e il dibattito si sono centrati su alcune soluzioni innovative collocate in 2 ambiti specifici: 1) modelli di **abitare per l'invecchiamento** e 2) delle **piattaforme tecnologiche innovative**. I casi di studio includono modelli come: "demetia vilalges", residenze di co-housing intergenerazionale, infermiere di quartiere, piattaforme per il case worker online.  
+A seguire, la presentazione e il dibattito si sono centrati su alcune soluzioni innovative collocate in 2 ambiti specifici: 1) modelli di **abitare per l'invecchiamento** e 2) delle **piattaforme tecnologiche innovative**. I casi di studio includono modelli come: "dementia villages", residenze di co-housing intergenerazionale, infermiere di quartiere, piattaforme per il case worker online.  
 
-Per ciascuno dei modelli ilustrati, sono stati evidenziati punti di forza e criticità, inquadramento e sostenibilità economica nel contesto assistenziale specifico.
+Per ciascuno dei modelli illustrati, sono stati evidenziati punti di forza e criticità, inquadramento e sostenibilità economica nel contesto assistenziale specifico.
 
 [Qui verranno le slide LINK]{style="color: red;"}
  
 Dalla discussione dei casi e nelle conclusioni sono emersi alcuni importanti spunti di lavoro: 
 
 + C'è grande spazio per sperimentare risposte progressive - anche creative - a un bisogno crescente ma estremamente multiforme. Anche i casi di successo sono frutto di sperimentazione e processi di _trial & error_
-+ La relazione e la comunità sono fattori fondamentali - lo stesso anziano non-autosufficiente è protagonista della risposta
++ La relazione e la comunità sono fattori fondamentali - lo stesso anziano non-autosufficiente è protagonista della risposta.
 
-## Fonti 
-Manca un sistema informativo integrato (sociale + sanitario) e possibile duplicazione, i.e. stessi utenti contati varie volte se ricevono servizi diversi
+## Fonti
+Manca un sistema informativo integrato (sociale + sanitario), con possibile duplicazione: stessi utenti contati varie volte se ricevono servizi diversi.
 
 
 + Cruscotto di Monitoraggio AGENAS 
@@ -63,5 +65,10 @@ Manca un sistema informativo integrato (sociale + sanitario) e possibile duplica
     + ospiti dei presidi socio-assistenziali
 + [`Badantato`] Inps dati sul lavoro domestico, Osservatorio Domina
 + [`Spesa pubblica su  LTC`] Ragioneria dello Stato, report annuale "Le tendenze del medio-lungo periodo del sistema pensionistico e socio-sanitario"
+
+## Materiali
+
+- [{{< fa file-pdf >}} Agenda della giornata — PDF](agenda_cergas_6mag2026.pdf)
+
 
 ## Riferimenti bibliografici

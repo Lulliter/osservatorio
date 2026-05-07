@@ -7,8 +7,8 @@ listing:
   sort: "date desc"
   type: default
   categories: true
-  filter-ui: true             # casella di ricerca testuale
-  sort-ui: true               # menu per ordinamento
+  filter-ui: false             # casella di ricerca testuale
+  sort-ui: false               # menu per ordinamento
   fields: [date, title, author, categories, tipo]   # categories = i temi (pill standard Quarto, cliccabili)
   field-display-names:
     tipo: "Tipo"

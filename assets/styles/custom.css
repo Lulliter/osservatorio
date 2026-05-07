@@ -33,6 +33,13 @@
   margin-bottom: 1em;
 }
 
+/* Landing blog: spingi giù il blocco categorie nella margin sidebar
+   in modo che inizi all'altezza del primo card del listing. */
+body:has(#listing-blog) #quarto-margin-sidebar {
+  margin-top: 8rem;
+}
+
+
 /* Direct override for inline code elements */
 code {
   color: #17717f !important;
